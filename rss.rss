@@ -1,0 +1,1713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Zotero 中文社区</title>
+        <link>https://zotero-chinese.com</link>
+        <description>非官方 Zotero 中文维护小组</description>
+        <lastBuildDate>Mon, 20 Jan 2025 22:35:43 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh</language>
+        <image>
+            <title>Zotero 中文社区</title>
+            <url>https://zotero-chinese/logo.png</url>
+            <link>https://zotero-chinese.com</link>
+        </image>
+        <copyright>Copyright © 2018-present Zotero 中文社区及贡献者</copyright>
+        <item>
+            <title><![CDATA[Zotero 中文文档仓库]]></title>
+            <link>https://zotero-chinese.com/README</link>
+            <guid>https://zotero-chinese.com/wiki/README</guid>
+            <pubDate>Mon, 20 Jan 2025 22:35:43 GMT</pubDate>
+            <description><![CDATA[本仓库存储 Zotero 中文社区所建立的各种文档，包括 Zotero 用户文档、Zotero 插件开发文档、CSL 规范中文译文等。
+ 访问
+请访问在线网站：Zotero 中文社区 (https:/]]></description>
+        </item>
+        <item>
+            <title><![CDATA[添加条目]]></title>
+            <link>https://zotero-chinese.com/user-guide/add-items</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/add-items</guid>
+            <pubDate>Mon, 13 Jan 2025 09:02:50 GMT</pubDate>
+            <description><![CDATA[<h1 id="添加条目" tabindex="-1">添加条目 <a class="header-anchor" href="#添加条目" aria-label="Permalink to &quot;添加条目&quot;">&ZeroWidthSpace;</a></h1>
+<p>本节描述了在 Zotero 中添加条目（例如书籍、期刊文章、网页等）的各种方法。要了解有关添加附件（例如 PDF 或图像）的更多信息，请参阅 <a href="./add-attachments.html">添加附件</a> 页面。</p>
+<h2 id="条目与附件" tabindex="-1">条目与附件 <Badge text="初级" /> <a class="header-anchor" href="#条目与附件" aria-label="Permalink to &quot;条目与附件 &lt;Badge text=&quot;初级&quot; /&gt;&quot;">&ZeroWidthSpace;</a></h2>
+<p>在使用 Zotero 之前，我希望可以引入几个术语：</p>
+<h3 id="条目-item" tabindex="-1">条目 Item <a class="header-anchor" href="#条目-item" aria-label="Permalink to &quot;条目 Item&quot;">&ZeroWidthSpace;</a></h3>
+<p>Zotero 的基本文件单元，用来表示一篇论文、一本书等的题录信息，引用时使用的条目中储存的信息。下面是一些常见的条目类别：</p>
+<p>|                            图标                             |   类型   |
+| :</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[移动端]]></title>
+            <link>https://zotero-chinese.com/user-guide/mobile</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/mobile</guid>
+            <pubDate>Mon, 13 Jan 2025 09:02:50 GMT</pubDate>
+            <description><![CDATA[iOS
+官方已经发布了 Zotero for iOS，并且支持支持 WebDAV 同步，iOS 端的设置相对比较简单，只需要登陆 Zotero 账户和完成 WebDAV 网盘设置即可。
+ 安装
+见 安]]></description>
+        </item>
+        <item>
+            <title><![CDATA[关于 Zotero 插件]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/about-plugin</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/about-plugin</guid>
+            <pubDate>Mon, 13 Jan 2025 09:02:50 GMT</pubDate>
+            <description><![CDATA[关于 Zotero 插件
+ 什么是插件？插件可以做什么？
+谈到 Zotero 插件，可能指的有三种东西：
+- 安装在 Zotero 里的，用于增强 Zotero 的功能，一般大家提起 `Zotero ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zotero 插件市场插件]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/zotero-addons</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/zotero-addons</guid>
+            <pubDate>Mon, 13 Jan 2025 09:02:50 GMT</pubDate>
+            <description><![CDATA[Zotero 插件市场插件
+::: info 关于插件
+这是一个用于在 Zotero 内浏览和安装插件的插件，简化插件管理和安装过程。用户可以通过该插件可以方便地查找、安装和更新 Zotero 插件。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[安装]]></title>
+            <link>https://zotero-chinese.com/user-guide/install</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/install</guid>
+            <pubDate>Tue, 07 Jan 2025 14:41:40 GMT</pubDate>
+            <description><![CDATA[安装
+ 主程序（PC）
+请在 Zotero 官网 下载对应自己操作系统的安装包。
+ 测试版本的 Zotero
+我们始终推荐大部分用户使用正式版本的 Zotero 而非测试版本，测试版本将面临包括但不限]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Magic for Zotero]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/magic</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/magic</guid>
+            <pubDate>Tue, 31 Dec 2024 14:57:44 GMT</pubDate>
+            <description><![CDATA[Magic for Zotero 是一款付费的全文翻译插件，不过你可以免费七天全功能试用。
+ 视频资料
+ 简单介绍
+&lt;!-- markdownlint-disable --
+&lt;div st]]></description>
+        </item>
+        <item>
+            <title><![CDATA[阿里翻译接口申请及配置]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/translate/aliyun</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/translate/aliyun</guid>
+            <pubDate>Tue, 31 Dec 2024 14:57:44 GMT</pubDate>
+            <description><![CDATA[1. 翻译接口申请
+打开 阿里翻译 页面，点击立即开通，在登录页面，使用支付宝扫码登录。
+::: tip
+注意，如果第一次开通，可能会提示你需要进行实名认证，按照提示进行认证即可。
+:::
+使用支付宝]]></description>
+        </item>
+        <item>
+            <title><![CDATA[百度翻译接口申请和配置]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/translate/baidu</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/translate/baidu</guid>
+            <pubDate>Tue, 31 Dec 2024 14:57:44 GMT</pubDate>
+            <description><![CDATA[<h1 id="百度翻译接口申请和配置" tabindex="-1">百度翻译接口申请和配置 <a class="header-anchor" href="#百度翻译接口申请和配置" aria-label="Permalink to &quot;百度翻译接口申请和配置&quot;">&ZeroWidthSpace;</a></h1>
+<p>百度翻译和垂直领域翻译免费额度：</p>
+<ul>
+<li><a href="https://fanyi-api.baidu.com/product/111" target="_blank" rel="noreferrer">通用翻译</a>：完成个人认证可升级使用高级版服务，提供基础文本翻译服务，支持自定义术语翻译功能。<strong>每月 100 万字符免费</strong>，QPS 为 10，单次最长请求 6000 字符，支持 28 个常见语种。</li>
+<li><a href="https://fanyi-api.baidu.com/product/12" target="_blank" rel="noreferrer">垂直领域翻译</a>: 开通并认证后，即享<strong>每月 50 万免费字符</strong>。目前已开通学术论文、生物医药、信息技术、金融财经、机械制造、网络文学（仅支持中英）、新闻资讯、人文社科（仅支持中英）、航空航天、法律法规、合同共 11 个垂直领域。</li>
+</ul>
+<p>以上接口，超出部分按 49 元/百万字符计费，垂直领域接口申请成功后的提示：高级版是每月 100W 字符。</p>
+<h2 id="_1-账号注册" tabindex="-1">1. 账号注册 <a class="header-anchor" href="#_1-账号注册" aria-label="Permalink to &quot;1. 账号注册&quot;">&ZeroWidthSpace;</a></h2>
+<p>直接访问 <a href="https://fanyi-api.baidu.com/product/11" target="_blank" rel="noreferrer">https://fanyi-api.baidu.com/product/11</a>，如果未登录，点击右上角登录。没百度账号的同学，就直接新注册一个。</p>
+<p><img src="./../../../assets/images/zotero-plugin-translate/baidu-3.png" alt="登录按钮" loading="lazy"></p>
+<p>网页上直接列出了通用文本翻译和领域翻译，这两个就是常说的百度翻译和百度垂直领域翻译。这两个的区别是：</p>
+<ul>
+<li>免费额度不同，垂直领域相比通用文本翻译免费额度少，每月只有 50W</li>
+<li>精细度不同。为了提升特定领域机器翻译的准确度，百度翻译针对多个垂直领域模型进行了优化，特定领域术语翻译相较于通用文本翻译 API 结果更为准确，句式更加符合该行业特点。</li>
+</ul>
+<p>目前已开通科技电子、水利机械、生物医药等 3 个垂直领域，不过只有生物医药支持中英互译，剩下两个只支持中文到英文。建议生物医药相关专业的同学，可以试试使用垂直领域翻译接口。</p>
+<p>访问 <a href="https://fanyi-api.baidu.com/product/11" target="_blank" rel="noreferrer">https://fanyi-api.baidu.com/product/11</a>，直接点击下方立即使用：</p>
+<p><img src="./../../../assets/images/zotero-plugin-translate/baidu-4.png" alt="开通通用文本翻译API" loading="lazy"></p>
+<p>点击之后可能出现验证（手机或实名制认证），请按照说明进行验证，提升免费额度。</p>
+<p><img src="./../../../assets/images/zotero-plugin-translate/baidu-5.png" alt="实名认证窗口" loading="lazy"></p>
+<p>然后需要注册成为百度翻译开发者，请选择个人开发者，并如实填下方表格中的信息。</p>
+<p><img src="./../../../assets/images/zotero-plugin-translate/baidu-6.png" alt="个人开发者注册表格" loading="lazy"></p>
+<p>选择下方高级版，每月 100W 免费额度。</p>
+<p><img src="./../../../assets/images/zotero-plugin-translate/baidu-7.png" alt="选择高级版" loading="lazy"></p>
+<h2 id="_2-百度翻译-通用文本翻译-接口申请" tabindex="-1">2. 百度翻译（通用文本翻译）接口申请 <a class="header-anchor" href="#_2-百度翻译-通用文本翻译-接口申请" aria-label="Permalink to &quot;2. 百度翻译（通用文本翻译）接口申请&quot;">&ZeroWidthSpace;</a></h2>
+<p>访问 <a href="https://fanyi-api.baidu.com/choose" target="_blank" rel="noreferrer">https://fanyi-api.baidu.com/choose</a> ，选择通用文本翻译，点下一步：</p>
+<p><img src="./../../../assets/images/zotero-plugin-translate/baidu-8.png" alt="通用文本翻译API开通" loading="lazy"></p>
+<p><img src="./../../../assets/images/zotero-plugin-translate/baidu-9.png" alt="开通高级版" loading="lazy"></p>
+<p><img src="./../../../assets/images/zotero-plugin-translate/baidu-10.png" alt="申请认证" loading="lazy"></p>
+<p>应用名称是必填的，其他随意写。最后点击提交申请。</p>
+<p><img src="./../../../assets/images/zotero-plugin-translate/baidu-11.png" alt="提交申请" loading="lazy"></p>
+<p><img src="./../../../assets/images/zotero-plugin-translate/baidu-12.png" alt="开通成功后的个人页面" loading="lazy"></p>
+<p>上图是开通成功后的页面。</p>
+<h2 id="_3-百度垂直领域-领域翻译-接口申请" tabindex="-1">3. 百度垂直领域（领域翻译）接口申请 <a class="header-anchor" href="#_3-百度垂直领域-领域翻译-接口申请" aria-label="Permalink to &quot;3. 百度垂直领域（领域翻译）接口申请&quot;">&ZeroWidthSpace;</a></h2>
+<p>打开这个网页 <a href="https://fanyi-api.baidu.com/choose" target="_blank" rel="noreferrer">https://fanyi-api.baidu.com/choose</a>，选择领域翻译，点下一步：</p>
+<p><img src="./../../../assets/images/zotero-plugin-translate/baidu-13.png" alt="垂直领域翻译接口开通" loading="lazy"></p>
+<p><img src="./../../../assets/images/zotero-plugin-translate/baidu-14.png" alt="申请表格" loading="lazy"></p>
+<p><img src="./../../../assets/images/zotero-plugin-translate/baidu-15.png" alt="垂直领域翻译接口开通成功后的个人页面" loading="lazy"></p>
+<p><a href="https://fanyi-api.baidu.com/api/trans/product/desktop?req=field" target="_blank" rel="noreferrer">https://fanyi-api.baidu.com/api/trans/product/desktop?req=field</a> 垂直领域的后台界面，上面有对应的使用明细。</p>
+<h2 id="_4-接口密钥查询" tabindex="-1">4. 接口密钥查询 <a class="header-anchor" href="#_4-接口密钥查询" aria-label="Permalink to &quot;4. 接口密钥查询&quot;">&ZeroWidthSpace;</a></h2>
+<p>打开 <a href="https://fanyi-api.baidu.com/api/trans/product/desktop" target="_blank" rel="noreferrer">https://fanyi-api.baidu.com/api/trans/product/desktop</a>，可以在最下面看到配置使用的 APP ID 和密钥。</p>
+<p><img src="./../../../assets/images/zotero-plugin-translate/baidu-16.png" alt="接口密钥查看页面" loading="lazy"></p>
+<p>垂直领域翻译还需要一个领域参数，具体领域信息如下：</p>
+<p>| 支持传入值 | 描述         | 支持语言方向                          |
+|</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Translate for Zotero]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/translate/</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/translate/</guid>
+            <pubDate>Tue, 31 Dec 2024 14:57:44 GMT</pubDate>
+            <description><![CDATA[<h1 id="translate-for-zotero" tabindex="-1">Translate for Zotero <a class="header-anchor" href="#translate-for-zotero" aria-label="Permalink to &quot;Translate for Zotero&quot;">&ZeroWidthSpace;</a></h1>
+<div class="tip custom-block"><p class="custom-block-title">提示</p>
+<p>深度适配 Zotero 阅读器的翻译插件。</p>
+</div>
+<ul>
+<li>项目主页：<a href="https://github.com/windingwind/zotero-pdf-translate" target="_blank" rel="noreferrer">https://github.com/windingwind/zotero-pdf-translate</a></li>
+<li>下载地址：
+<ul>
+<li><a href="https://github.com/windingwind/zotero-pdf-translate/releases" target="_blank" rel="noreferrer">GitHub Release</a></li>
+<li><a href="https://zotero-chinese.com/plugins/#search=translate" target="_blank" rel="noreferrer">Zotero 中文社区插件商店</a></li>
+</ul>
+</li>
+</ul>
+<p>Zotero PDF Translate 是由 @windingwind 开发的，用于文献管理软件 Zotero 的翻译插件。它完全开源、免费，主要功能有：</p>
+<ul>
+<li>划词翻译（自动/手动）</li>
+<li>标题、摘要翻译与源文本/翻译结果显示切换</li>
+<li>批注翻译（自动/手动）</li>
+<li>支持 15+ 种翻译服务与 4+ 种字典服务</li>
+<li>自定义翻译侧栏 UI，支持同时使用多种翻译引擎</li>
+</ul>
+<p>插件深度集成了 Zotero 文献阅读功能。</p>
+<h2 id="国内常用翻译引擎" tabindex="-1">国内常用翻译引擎 <a class="header-anchor" href="#国内常用翻译引擎" aria-label="Permalink to &quot;国内常用翻译引擎&quot;">&ZeroWidthSpace;</a></h2>
+<p>我们收集整理了一些国内常用的翻译引擎，这些带密钥的翻译引擎，同知网，海词等相比，更加稳定，大批量和频繁使用时不容易出错。</p>
+<p>| 引擎名称     | 免费额度                                             | 参考文档                                                           | 备注                                                                  |
+|</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[微软翻译接口申请及配置]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/translate/microsoft</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/translate/microsoft</guid>
+            <pubDate>Tue, 31 Dec 2024 14:57:44 GMT</pubDate>
+            <description><![CDATA[1. 接口申请
+打开 微软的接口平台
+点击「免费试用 Azure」，会提示你登录微软账号，如果你没有账号，可以申请一个后再登录。
+跳转到登录页面，并使用账号登录。
+弹出开通服务的窗口，勾选第一个同意，]]></description>
+        </item>
+        <item>
+            <title><![CDATA[小牛翻译接口申请及配置]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/translate/niutrans</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/translate/niutrans</guid>
+            <pubDate>Tue, 31 Dec 2024 14:57:44 GMT</pubDate>
+            <description><![CDATA[1. 注册小牛翻译账号
+到小牛翻译的 注册页面，使用手机号或邮箱进行注册。
+登录小牛控制台，在「个人中心」页基本信息部分可看到，查看及复制前需先点击右侧显示，将 `**` 符号变为具体数字。注：API]]></description>
+        </item>
+        <item>
+            <title><![CDATA[腾讯翻译接口申请和配置]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/translate/tencent</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/translate/tencent</guid>
+            <pubDate>Tue, 31 Dec 2024 14:57:44 GMT</pubDate>
+            <description><![CDATA[腾讯翻译接口申请和配置
+腾讯翻译每月 500W 免费额度，非常适合大批量的文献全文翻译：
+ 1. 账号注册
+打开 腾讯翻译页面：
+点击立即使用，扫码登录，同意协议，点击开通：
+账号注册成功后就可以继续]]></description>
+        </item>
+        <item>
+            <title><![CDATA[火山翻译接口申请及配置]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/translate/volcengine</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/translate/volcengine</guid>
+            <pubDate>Tue, 31 Dec 2024 14:57:44 GMT</pubDate>
+            <description><![CDATA[火山翻译接口申请及配置
+ 1. 火山翻译接口申请
+请查看 火山翻译官方文档。
+ 2. 火山翻译流量查看
+请访问 火山翻译流量查询。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[构建指南]]></title>
+            <link>https://zotero-chinese.com/contributing/build</link>
+            <guid>https://zotero-chinese.com/wiki/contributing/build</guid>
+            <pubDate>Thu, 26 Dec 2024 07:56:18 GMT</pubDate>
+            <description><![CDATA[构建指南
+此页面记录了本项目的完整构建步骤，主要针对喜欢本地开发的同学。
+为了降低操作门槛，本指南所述操作步骤均尽可能使用了图形化界面。对于熟悉 Git 的同学，仍可使用自己喜欢的方式进行操作。
+ 项]]></description>
+        </item>
+        <item>
+            <title><![CDATA[参与指南]]></title>
+            <link>https://zotero-chinese.com/contributing/</link>
+            <guid>https://zotero-chinese.com/wiki/contributing/</guid>
+            <pubDate>Tue, 03 Dec 2024 06:50:25 GMT</pubDate>
+            <description><![CDATA[Zotero 中文社区是一个由志愿者组成的开源项目，它依赖于其用户和开发者社区的支持。您的帮助将对 Zotero 中文生态的现在和未来发挥着重要作用。
+Zotero 中文社区接受多种形式的贡献，请阅读]]></description>
+        </item>
+        <item>
+            <title><![CDATA[SciHub]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/zotero-scihub</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/zotero-scihub</guid>
+            <pubDate>Tue, 03 Dec 2024 06:33:56 GMT</pubDate>
+            <description><![CDATA[SciHub
+ 插件介绍
+这是 Zotero 的一个插件，会自动从 SciHub 上为带有 DOI 的条目自动下载 pdf 格式的论文文件。
+对于您在安装此插件后添加的任何新论文，将会在后台从 Sci]]></description>
+        </item>
+        <item>
+            <title><![CDATA[ZotMoov]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/zotmoov</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/zotmoov</guid>
+            <pubDate>Tue, 26 Nov 2024 04:26:07 GMT</pubDate>
+            <description><![CDATA[ZotMoov
+::: tip 简介
+用于管理 Zotero 7 的文献附件，它支持以下功能：
+- 自动/手动将附件移动/复制到指定目录
+- 在 Zotero 中删除附件时，自动将其从计算机中删除
+-]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在 WPS 中插入参考文献]]></title>
+            <link>https://zotero-chinese.com/user-guide/wps-plugin</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/wps-plugin</guid>
+            <pubDate>Tue, 26 Nov 2024 01:56:05 GMT</pubDate>
+            <description><![CDATA[在 WPS 中插入参考文献
+在 WPS 中使用插件参考文献，目前有两种方法
+- 使用 VBA，借用 Word 的插件
+- 使用 WPS JavaScript API 制作的插件
+使用 WPS 的 VB]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Feed]]></title>
+            <link>https://zotero-chinese.com/user-guide/feed</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/feed</guid>
+            <pubDate>Tue, 19 Nov 2024 11:32:48 GMT</pubDate>
+            <description><![CDATA[<h1 id="feed-rss" tabindex="-1">Feed RSS <a class="header-anchor" href="#feed-rss" aria-label="Permalink to &quot;Feed RSS&quot;">&ZeroWidthSpace;</a></h1>
+<Badge text="高级" /><p>Feed 是发现新研究的好方法。通过 Feed，您可以订阅来自期刊、网站、出版商、机构、研究小组或其他来源的更新，并快速查找新文章或作品。如果您在出版物的提要中找到想要保存并进一步阅读的项目，只需单击按钮即可将其添加到您的 Zotero 库中。</p>
+<ul>
+<li>追踪期刊目录更新</li>
+<li>追踪数据库中某些「关键词」相关的文献更新情况</li>
+<li>订阅任意网站的内容更新，例如 b 站 up 主的视频更新...</li>
+</ul>
+<h2 id="zotero-订阅设置" tabindex="-1">Zotero 订阅设置 <a class="header-anchor" href="#zotero-订阅设置" aria-label="Permalink to &quot;Zotero 订阅设置&quot;">&ZeroWidthSpace;</a></h2>
+<h3 id="新建订阅" tabindex="-1">新建订阅 <a class="header-anchor" href="#新建订阅" aria-label="Permalink to &quot;新建订阅&quot;">&ZeroWidthSpace;</a></h3>
+<h4 id="zotero-7" tabindex="-1">Zotero 7 <a class="header-anchor" href="#zotero-7" aria-label="Permalink to &quot;Zotero 7&quot;">&ZeroWidthSpace;</a></h4>
+<p>在 Zotero 主界面，左上角工具栏选择 文件 - 新建文献库 - 新建订阅 - 从网址...</p>
+<p><img src="./../assets/images/feed-新建订阅-z7.png" alt="Zotero 7 新建订阅" loading="lazy"></p>
+<h4 id="zotero-6" tabindex="-1">Zotero 6 <a class="header-anchor" href="#zotero-6" aria-label="Permalink to &quot;Zotero 6&quot;">&ZeroWidthSpace;</a></h4>
+<p>在 Zotero 主界面，左上角工具栏选择 <img src="./../assets/images/feed-1.png" alt="群组icon" loading="lazy"> - 新建订阅 - 从网址...</p>
+<p><img src="./../assets/images/feed-2.png" alt="Zotero 6 新建订阅" loading="lazy"></p>
+<p>之后会弹出以下窗口</p>
+<p><img src="./../assets/images/feed-3.png" alt="输入网址" loading="lazy"></p>
+<p>在网址栏填入订阅网址（如何获取请往下拉），Zotero 识别成功之后会自动填入标题（可以自己手动更改，<strong>Zotero 不会根据期刊订阅先后给订阅的期刊排序，可以手动在期刊名前面加上 1234 或者字母来排序</strong>）并且进行高级选项设置，保存之后即可在主界面左侧<code>订阅</code>处看到订阅的内容及更新。</p>
+<p><img src="./../assets/images/feed-5.png" alt="订阅条目列表" loading="lazy"></p>
+<h3 id="订阅来源" tabindex="-1">订阅来源 <a class="header-anchor" href="#订阅来源" aria-label="Permalink to &quot;订阅来源&quot;">&ZeroWidthSpace;</a></h3>
+<p><strong>从网址订阅：</strong>&quot;从网址订阅&quot;是最直接、最方便的添加 RSS 订阅的方式，只需要提供订阅源的链接即可，是我们用 Zotero 追踪期刊更新时最常用的方式，<strong>以下涉及的实例也将基于此方式进行。</strong></p>
+<p><strong>OPML 订阅</strong>：&quot;来自 OPML&quot;主要用于之前有使用其它 RSS 阅读器，从其它阅读器中导入已经订阅的内容至 Zotero 中，<strong>一般用户很少涉及此方式，故不过多介绍。</strong></p>
+<h3 id="高级选项" tabindex="-1">高级选项 <a class="header-anchor" href="#高级选项" aria-label="Permalink to &quot;高级选项&quot;">&ZeroWidthSpace;</a></h3>
+<p><img src="./../assets/images/feed-6.png" alt="高级选项" loading="lazy"></p>
+<p>「更新订阅每 N 小时」：即设定订阅间隔，每 N 个小时从订阅 URL 爬取期刊目录，加载在该「订阅」界面。如果 N 设置为 24，则每 24 小时会刷新一遍订阅，订阅界面会 24 小时加载一次期刊目录，如果有内容更新，就会加载出现在 Zotero 订阅界面。</p>
+<p>「删除<strong>已读</strong>提要题目于之后 N 天」：即点击了该条目查看右侧的条目详细信息（Zotero 会自动设置为&quot;已读&quot;状态）N 天后在期刊订阅界面删除该条目，如果不想删除已读条目，则将 N 设置为一个较大的数值，例如 1000000。</p>
+<p>「删除<strong>未读</strong>提要条目于之后 N 天」：即该条目一直处于未点击查看该条目的具体信息，N 天后在期刊订阅界面删除该条目。如果不想删除未读条目，则将 N 设置为一个较大的数值，例如 1000000。</p>
+<p>以上三项订阅参数的默认设置入口（Zotero7）：</p>
+<p>Win：编辑 - 设置 - 高级 - 订阅</p>
+<p>Mac：Zotero - 设置 - 高级 - 订阅</p>
+<p>在此设置页面中，可以设置对订阅的条目按&quot;最早条目在先&quot; / &quot;最新条目在先&quot;的排序。</p>
+<p><img src="./../assets/images/feed-7.png" alt="订阅设置" loading="lazy"></p>
+<h3 id="从-订阅-添加文献条目到-我的文库-群组文库" tabindex="-1">从&quot;订阅&quot;添加文献条目到&quot;我的文库&quot;/&quot;群组文库&quot; <a class="header-anchor" href="#从-订阅-添加文献条目到-我的文库-群组文库" aria-label="Permalink to &quot;从&quot;订阅&quot;添加文献条目到&quot;我的文库&quot;/&quot;群组文库&quot;&quot;">&ZeroWidthSpace;</a></h3>
+<p>Zotero 的订阅内容并不会保存在个人文库中，也不可以直接引用&quot;订阅&quot;中的条目，因此需要引用则需要将其添加到&quot;我的文库&quot;（也可以共享到群组文库）</p>
+<p><img src="./../assets/images/feed-8.png" alt="添加到文库" loading="lazy"></p>
+<p>点开 Zotero 某一期刊/RSS 订阅内容，点击具体条目，看到右侧信息栏，点击<img src="./../assets/images/feed-9.png" alt="添加到文库icon" loading="lazy"> 中的 ▽ 倒三角图标，选择你想要保存到的本地文库文件夹 📂/在线群组文件夹 📂，再点击&quot;添加到 XXXX&quot;，即可从订阅中添加到自己的文献库/某个群组文库中（可以同时添加到若干个文库）。</p>
+<h3 id="订阅界面右键功能介绍" tabindex="-1">订阅界面右键功能介绍 <a class="header-anchor" href="#订阅界面右键功能介绍" aria-label="Permalink to &quot;订阅界面右键功能介绍&quot;">&ZeroWidthSpace;</a></h3>
+<blockquote>
+<p>在订阅界面点击某个具体的订阅期刊，右键即可出现以下菜单选项</p>
+</blockquote>
+<p><img src="./../assets/images/feed-10.png" alt="订阅右键菜单" loading="lazy"></p>
+<blockquote>
+<p><strong>更新订阅</strong>：除了 Zotero 自动按照订阅某期刊时&quot;高级选项&quot;的更新选项去更新订阅外，手动更新订阅，如有最新内容则自动加载到右侧具体条目面板中</p>
+<p><strong>标记订阅为已读</strong>：Zotero 订阅界面中未读的期刊/具体文献条目将会<strong>加粗</strong>显示，点击该选项将会<strong>设置该期刊所有内容为已读状态，取消加粗显示。</strong></p>
+<p><strong>编辑订阅</strong>：回到&quot;<strong>2、高级选项</strong>&quot;中的设置界面，可以更改某一个期刊的高级选项，便于进行个性化订阅设置。</p>
+<p><strong>退订订阅</strong>：即从订阅面板删除该订阅期刊，会有确认取消窗口避免误删，请慎重选择！</p>
+</blockquote>
+<h2 id="订阅网址-rss-链接-获取" tabindex="-1">订阅网址（RSS 链接）获取 <a class="header-anchor" href="#订阅网址-rss-链接-获取" aria-label="Permalink to &quot;订阅网址（RSS 链接）获取&quot;">&ZeroWidthSpace;</a></h2>
+<h3 id="中文期刊订阅" tabindex="-1">中文期刊订阅 <a class="header-anchor" href="#中文期刊订阅" aria-label="Permalink to &quot;中文期刊订阅&quot;">&ZeroWidthSpace;</a></h3>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[添加附件]]></title>
+            <link>https://zotero-chinese.com/user-guide/add-attachments</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/add-attachments</guid>
+            <pubDate>Mon, 18 Nov 2024 12:46:26 GMT</pubDate>
+            <description><![CDATA[除了项目元数据、注释和标签之外，Zotero 还可以用于管理文件。本页面介绍了将文件添加到 Zotero 库的不同方式，以及如何存储和同步添加的文件。
+ 子附件和独立附件
+::: info Todo
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[组织、管理你的文献库]]></title>
+            <link>https://zotero-chinese.com/user-guide/organize-library</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/organize-library</guid>
+            <pubDate>Sat, 21 Sep 2024 09:56:54 GMT</pubDate>
+            <description><![CDATA[组织、管理你的文献库
+::: warning 待办
+此章节尚未根据 Zotero 7 更新，界面或操作逻辑若有不一致请以实际为准。
+:::
+
+ 分类管理
+分类的图标类似文件夹：。分类是所有文献条目的父]]></description>
+        </item>
+        <item>
+            <title><![CDATA[阅读文献、添加笔记]]></title>
+            <link>https://zotero-chinese.com/user-guide/take-notes</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/take-notes</guid>
+            <pubDate>Sat, 21 Sep 2024 09:56:54 GMT</pubDate>
+            <description><![CDATA[<h1 id="阅读文献、添加笔记" tabindex="-1">阅读文献、添加笔记 <a class="header-anchor" href="#阅读文献、添加笔记" aria-label="Permalink to &quot;阅读文献、添加笔记&quot;">&ZeroWidthSpace;</a></h1>
+<div class="warning custom-block"><p class="custom-block-title">待办</p>
+<p>此章节尚未根据 Zotero 7 更新，界面或操作逻辑若有不一致请以实际为准。</p>
+</div>
+<p>Zotero 支持直接打开并批注 PDF，与内部的笔记、同步等功能深度集成。建议使用 Zotero 阅读器以获得最佳体验。</p>
+<div class="warning custom-block"><p class="custom-block-title">警告</p>
+<p>内部阅读器所做的高亮、批注等<strong>不在原始 PDF 上</strong>，因此与第三方 PDF 阅读器的批注无法互通，也不支持非 Zotero 或非 WebDAV 的同步方式（关于同步，请见后续章节）。</p>
+<p>如果你并没有特别依赖第三方 PDF 阅读器的某些特殊功能，建议使用 Zotero 阅读器。</p>
+</div>
+<h2 id="打开文献-pdf" tabindex="-1">打开文献 PDF <a class="header-anchor" href="#打开文献-pdf" aria-label="Permalink to &quot;打开文献 PDF&quot;">&ZeroWidthSpace;</a></h2>
+<p>在主界面中选中文献，双击或回车即可打开文献 PDF。默认以新标签页打开。</p>
+<blockquote>
+<p>💡 要以单独窗口打开文献，请在打开文献时按住 shift，或在标签页的标题上右键-&gt;移动标签-&gt;移动到新窗口。
+<img src="./../assets/images/reader-移动选项卡.png" alt="image.png" loading="lazy"></p>
+</blockquote>
+<p>Zotero 会自动记忆打开的文献与当前阅读位置。在下一次打开 Zotero 或在其他设备上打开同一个文献时，将会保持当前阅读位置。</p>
+<h2 id="阅读器功能介绍" tabindex="-1">阅读器功能介绍 <a class="header-anchor" href="#阅读器功能介绍" aria-label="Permalink to &quot;阅读器功能介绍&quot;">&ZeroWidthSpace;</a></h2>
+<h3 id="界面区域" tabindex="-1">界面区域 <a class="header-anchor" href="#界面区域" aria-label="Permalink to &quot;界面区域&quot;">&ZeroWidthSpace;</a></h3>
+<ul>
+<li>左侧是预览栏，可预览缩略图 / 目录；</li>
+<li>右侧是信息/笔记栏；</li>
+<li>上方横条是工具栏，可在此缩放、移动页面，或使用高亮注释（alt+1）、文字注释（alt+2）、框选注释（alt+3）等，设置注释颜色（alt+4 切换）；</li>
+<li>中央是阅读区域。</li>
+</ul>
+<p><img src="./../assets/images/reader-注释.png" alt="image.png" loading="lazy"></p>
+<p>快捷键整理（针对 Zotero 7 进行测试）：</p>
+<p>| 快捷键           | 功能                                |
+|</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[插件安装的常见问题]]></title>
+            <link>https://zotero-chinese.com/user-guide/faqs/plugins</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/faqs/plugins</guid>
+            <pubDate>Fri, 13 Sep 2024 09:21:34 GMT</pubDate>
+            <description><![CDATA[插件安装的常见问题
+关于插件的安装方法与常用插件介绍，请参见 插件与功能扩展。
+ 无法打开插件页面
+如果你能看到 `插件 / Plugins` 选项，点击这一按钮的时候却没反应： 请先完全退出 Zot]]></description>
+        </item>
+        <item>
+            <title><![CDATA[引文的格式]]></title>
+            <link>https://zotero-chinese.com/user-guide/citation-styles</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/citation-styles</guid>
+            <pubDate>Tue, 03 Sep 2024 14:18:58 GMT</pubDate>
+            <description><![CDATA[引文的格式
+Zotero 使用 Citation Style Language 来生成引文格式，Zotero 官方提供了一组 CSL 样式，可以在 Zotero 内下载安装。
+但是官方的 CSL 样式]]></description>
+        </item>
+        <item>
+            <title><![CDATA[更多接口]]></title>
+            <link>https://zotero-chinese.com/plugin-dev-guide/reference/more</link>
+            <guid>https://zotero-chinese.com/wiki/plugin-dev-guide/reference/more</guid>
+            <pubDate>Sat, 31 Aug 2024 12:10:29 GMT</pubDate>
+            <description><![CDATA[<h1 id="更多接口" tabindex="-1">更多接口 <a class="header-anchor" href="#更多接口" aria-label="Permalink to &quot;更多接口&quot;">&ZeroWidthSpace;</a></h1>
+<div class="tip custom-block"><p class="custom-block-title">Zotero Types</p>
+<p>关于接口定义，请参见接口定义包：<a href="https://github.com/windingwind/zotero-types" target="_blank" rel="noreferrer">https://github.com/windingwind/zotero-types</a></p>
+<p>如果使用插件模板，该 NPM 包已经内置了；否则，你需要自行安装，请 <code>npm install -D zotero-types</code> 并将其加入 includes 路径。</p>
+</div>
+<h2 id="zoteropane" tabindex="-1">ZoteroPane <a class="header-anchor" href="#zoteropane" aria-label="Permalink to &quot;ZoteroPane&quot;">&ZeroWidthSpace;</a></h2>
+<p><code>ZoteroPane</code> 是 Zotero 中主界面项目视图的抽象。可用于获取选中的项目，等等。</p>
+<p>源码位置：<a href="https://github.com/zotero/zotero/blob/master/chrome/content/zotero/zoteroPane.js" target="_blank" rel="noreferrer">chrome/content/Zotero/zoteroPane.js</a></p>
+<p>可通过 <code>ZoteroPane.getSelectedItems()</code> 获取选中的条目；
+通过 <code>ZoteroPane.itemsView.onSelect.addListener</code> 添加条目选中事件监听。</p>
+<div class="language-javascript vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">javascript</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">ZoteroPane.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">selectItem</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(itemID); </span><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">// 必须先切换到文库标签页</span></span></code></pre>
+</div><h2 id="zotero-collections-与-zotero-collection" tabindex="-1">Zotero.Collections 与 Zotero.Collection <a class="header-anchor" href="#zotero-collections-与-zotero-collection" aria-label="Permalink to &quot;Zotero.Collections 与 Zotero.Collection&quot;">&ZeroWidthSpace;</a></h2>
+<p>Collection（集合）是 Zotero 中所有条目的父层级，是 Library（库）的子层级。</p>
+<ul>
+<li><a href="https://github.com/zotero/zotero/blob/master/chrome/content/zotero/xpcom/data/collection.js" target="_blank" rel="noreferrer">chrome\content\Zotero\xpcom\data\collection.js</a> 定义了 Zotero.Collection 类</li>
+<li><a href="https://github.com/zotero/zotero/blob/master/chrome/content/zotero/xpcom/data/collections.js" target="_blank" rel="noreferrer">chrome\content\Zotero\xpcom\data\collections.js</a> 定义了 Zotero.Collections 对象，用于访问相关方法</li>
+</ul>
+<h2 id="zotero-libraries-与-zotero-library" tabindex="-1">Zotero.Libraries 与 Zotero.Library <a class="header-anchor" href="#zotero-libraries-与-zotero-library" aria-label="Permalink to &quot;Zotero.Libraries 与 Zotero.Library&quot;">&ZeroWidthSpace;</a></h2>
+<p>Libray（库）是 Zotero 中所有条目最终的父层级。Zotero 库分为用户库（<code>id=1</code>）与群组库，库之间的内容存储方式可能具有较大不同。</p>
+<ul>
+<li><a href="https://github.com/zotero/zotero/blob/master/chrome/content/zotero/xpcom/data/library.js" target="_blank" rel="noreferrer">chrome\content\Zotero\xpcom\data\library.js</a> 定义了 Zotero.Library 类</li>
+<li><a href="https://github.com/zotero/zotero/blob/master/chrome/content/zotero/xpcom/data/libraries.js" target="_blank" rel="noreferrer">chrome\content\Zotero\xpcom\data\librarys.js</a> 定义了 Zotero.Libraries 方法，用于访问相关方法</li>
+</ul>
+<h2 id="zotero-reader" tabindex="-1">Zotero.Reader <a class="header-anchor" href="#zotero-reader" aria-label="Permalink to &quot;Zotero.Reader&quot;">&ZeroWidthSpace;</a></h2>
+<p><code>Zotero.Reader</code> 是 PDF 阅读器的接口，但对于阅读器中诸如选中、高亮等许多功能在 <code>viewer.html</code> 内，无法直接从 Zotero 中调用，相关源码在 pdf-reader 仓库。本节仅作介绍 Zotero.Reader。</p>
+<p>源码位置：<a href="https://github.com/zotero/zotero/blob/master/chrome/content/zotero/xpcom/reader.js" target="_blank" rel="noreferrer">chrome/content/Zotero/xpcom/reader.js</a></p>
+<h3 id="基本使用" tabindex="-1">基本使用 <a class="header-anchor" href="#基本使用" aria-label="Permalink to &quot;基本使用&quot;">&ZeroWidthSpace;</a></h3>
+<p>通过 <code>Zotero.Reader._readers</code> 访问当前的 ReaderInstance 对象，每个对象有 <code>_iframeWindow</code> 属性，可对其执行界面操作。</p>
+<div class="language-javascript vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">javascript</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">Zotero.Reader.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">getByTabID</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(Zotero_Tabs.selectedID);</span></span></code></pre>
+</div><div class="language-javascript vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">javascript</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> cont</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> document.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">getElementById</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">`${</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">Zotero_Tabs</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">.</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">selectedID</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">}-context`</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> box</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> cont.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">querySelector</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"tabbox"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">box.tabs.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">append</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(tab);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">box.tabpanels.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">append</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(panel);</span></span></code></pre>
+</div><h3 id="调用-pdf-js-接口" tabindex="-1">调用 pdf.js 接口 <a class="header-anchor" href="#调用-pdf-js-接口" aria-label="Permalink to &quot;调用 pdf.js 接口&quot;">&ZeroWidthSpace;</a></h3>
+<p>ReaderInstance 对象的 <code>_iframeWindow</code> 属性是阅读器的 <code>window</code> 对象，也就是在网页版所看到的内容，它包含了整个 pdf 阅读器的 document 对象与 wrappedJSObject 字段。</p>
+<p>通过调用 <code>._iframeWindow.wrappedJSObject</code> 可在阅读器命名空间外访问其局部变量，其中的方法有 <code>zoteroCopyImage</code> 和 <code>zoteroSaveImageAs</code> 等。同时他包含了 <code>PDFViewerApplication</code> 对象.</p>
+<p>该部分源码在 <a href="https://github.com/zotero/pdf-reader/tree/master/src" target="_blank" rel="noreferrer">pdf-reader/src at master · Zotero/pdf-reader</a></p>
+<div class="language-javascript vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">javascript</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">._iframeWindow.wrappedJSObject.PDFViewerApplication.pdfViewer.currentPageNumber</span></span></code></pre>
+</div><p>此外，通过注入脚本的方式可以直接访问 <code>PDFViewerApplication</code> 对象来操作阅读器：<a href="https://gitee.com/const_volatile/chartero/blob/master/chrome/content/reader.js" target="_blank" rel="noreferrer">chartero | chrome/content/reader.js</a></p>
+<h4 id="案例" tabindex="-1">案例 <a class="header-anchor" href="#案例" aria-label="Permalink to &quot;案例&quot;">&ZeroWidthSpace;</a></h4>
+<h5 id="_1-获取-pdf-指定页面所有文字" tabindex="-1">1. 获取 pdf 指定页面所有文字 <a class="header-anchor" href="#_1-获取-pdf-指定页面所有文字" aria-label="Permalink to &quot;1. 获取 pdf 指定页面所有文字&quot;">&ZeroWidthSpace;</a></h5>
+<p>以第一页为例，索引为 0：</p>
+<div class="language-typescript vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">typescript</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> reader</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> Zotero.Reader.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">getByTabID</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(Zotero_Tabs.selectedID);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> PDFViewerApplication</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  reader._iframeWindow.wrappedJSObject.PDFViewerApplication;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">await</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> PDFViewerApplication.pdfLoadingTask.promise;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">await</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> PDFViewerApplication.pdfViewer.pagesPromise;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">let</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> pages </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> PDFViewerApplication.pdfViewer._pages;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">let</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> pdfPage </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> pages[</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">].pdfPage;</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">let</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> items </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> (</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">await</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> pdfPage.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">getTextContent</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">()).items;</span></span></code></pre>
+</div><p>这里以 <code>item=items[0]</code> 为例：</p>
+<div class="language-json vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">json</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">{</span></span>
+<span class="line"><span style="--shiki-light:#B31D28;--shiki-light-font-style:italic;--shiki-dark:#FDAEB7;--shiki-dark-font-style:italic">  chars</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">: </span><span style="--shiki-light:#B31D28;--shiki-light-font-style:italic;--shiki-dark:#FDAEB7;--shiki-dark-font-style:italic">Array(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">63</span><span style="--shiki-light:#B31D28;--shiki-light-font-style:italic;--shiki-dark:#FDAEB7;--shiki-dark-font-style:italic">)</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [ {</span><span style="--shiki-light:#B31D28;--shiki-light-font-style:italic;--shiki-dark:#FDAEB7;--shiki-dark-font-style:italic">…</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}, {</span><span style="--shiki-light:#B31D28;--shiki-light-font-style:italic;--shiki-dark:#FDAEB7;--shiki-dark-font-style:italic">…</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}, {</span><span style="--shiki-light:#B31D28;--shiki-light-font-style:italic;--shiki-dark:#FDAEB7;--shiki-dark-font-style:italic">…</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}, </span><span style="--shiki-light:#B31D28;--shiki-light-font-style:italic;--shiki-dark:#FDAEB7;--shiki-dark-font-style:italic">…</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ]</span></span>
+<span class="line"><span style="--shiki-light:#B31D28;--shiki-light-font-style:italic;--shiki-dark:#FDAEB7;--shiki-dark-font-style:italic">	dir:</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "ltr"</span></span>
+<span class="line"><span style="--shiki-light:#B31D28;--shiki-light-font-style:italic;--shiki-dark:#FDAEB7;--shiki-dark-font-style:italic">	fontName:</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "g_d0_f1"</span></span>
+<span class="line"><span style="--shiki-light:#B31D28;--shiki-light-font-style:italic;--shiki-dark:#FDAEB7;--shiki-dark-font-style:italic">	height:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 6.376</span></span>
+<span class="line"><span style="--shiki-light:#B31D28;--shiki-light-font-style:italic;--shiki-dark:#FDAEB7;--shiki-dark-font-style:italic">	str:</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "Ma, Z., Hu, X., Huang, L., Bi, J., Liu, Y., 2014."</span></span>
+<span class="line"><span style="--shiki-light:#B31D28;--shiki-light-font-style:italic;--shiki-dark:#FDAEB7;--shiki-dark-font-style:italic">	transform:</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> [</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">6.376</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">0</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">6.376</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">42.5197</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">732.5289</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">]</span></span>
+<span class="line"><span style="--shiki-light:#B31D28;--shiki-light-font-style:italic;--shiki-dark:#FDAEB7;--shiki-dark-font-style:italic">	width:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 202.367864</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span></code></pre>
+</div><p>这里的 <code>item.chars</code> 记录了 <code>item.str</code> 的每个字符对应的渲染信息。除了宽高外，<code>item.transform</code> 还提供了(<code>x=item.transform[4]</code>, <code>y=item.transform[5]</code>)位置信息。这个位置以 pdf 页面左下角为原点。</p>
+<p>根据 pdf 页面内的文字可以解析出所有参考文献，详见：<a href="https://github.com/MuiseDestiny/zotero-reference" target="_blank" rel="noreferrer">GitHub - MuiseDestiny/Zotero-reference: Zotero 插件，侧边栏显示正在阅读文献的所有参考文献</a></p>
+<h2 id="zotero-notes" tabindex="-1">Zotero.Notes <a class="header-anchor" href="#zotero-notes" aria-label="Permalink to &quot;Zotero.Notes&quot;">&ZeroWidthSpace;</a></h2>
+<p><code>Zotero.EditorInstance</code> 类是笔记编辑器的抽象；<code>Zotero.EditorInstanceUtilities</code> 对象包括了笔记中一些转换等基础功能。</p>
+<p>源码位置：<a href="https://github.com/zotero/zotero/blob/master/chrome/content/zotero/xpcom/editorInstance.js" target="_blank" rel="noreferrer">chrome/content/Zotero/xpcom/editorInstance.js</a></p>
+<p><code>Zotero.Notes</code> 是所有 EditorInstance 实例的管理器。</p>
+<p>源码位置：<a href="https://github.com/zotero/zotero/blob/master/chrome/content/zotero/xpcom/data/notes.js" target="_blank" rel="noreferrer">chrome/content/Zotero/xpcom/data/notes.js</a></p>
+<h2 id="zotero-tabs" tabindex="-1">Zotero_Tabs <a class="header-anchor" href="#zotero-tabs" aria-label="Permalink to &quot;Zotero_Tabs&quot;">&ZeroWidthSpace;</a></h2>
+<p>Zotero 6 以后的版本引入了标签页（tab）。当打开 PDF 时，默认在新标签页打开。
+源码位置：<a href="https://github.com/zotero/zotero/blob/master/chrome/content/zotero/tabs.js" target="_blank" rel="noreferrer">chrome/content/Zotero/tabs.js</a></p>
+<h3 id="基本使用-1" tabindex="-1">基本使用 <a class="header-anchor" href="#基本使用-1" aria-label="Permalink to &quot;基本使用&quot;">&ZeroWidthSpace;</a></h3>
+<p>通过 Zotero_Tabs 访问当前打开的标签页。</p>
+<h4 id="新增标签页" tabindex="-1">新增标签页 <a class="header-anchor" href="#新增标签页" aria-label="Permalink to &quot;新增标签页&quot;">&ZeroWidthSpace;</a></h4>
+<p>通过 <code>Zotero_Tabs.add</code> 方法新增标签页，例如 Better Notes 插件中的一段代码：</p>
+<div class="language-typescript vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">typescript</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">let</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> { id, container } </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> Zotero_Tabs.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">add</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  type: </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"betternotes"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  title: Zotero.locale.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">includes</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"zh"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">?</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "工作区"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> :</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "Workspace"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  index: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  data: {},</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  select: select,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  onClose: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">undefined</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">});</span></span></code></pre>
+</div><p>请注意此处的 type 将影响菜单栏的显示/隐藏。截至文档更新（2022.08.22），在离开标签时，自定义的标签类型不会被正确隐藏，但在进入标签页时会被显示（相关代码在 <code>ZoteroStandalone.switchMenuType</code>）。因此需要手动处理离开标签页时隐藏自定义标签的部分菜单。</p>
+<div class="language-typescript vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">typescript</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">switchRealMenuBar</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(hidden: boolean) {</span></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">    // We only handle hide. The show will be handled by the ZoteroStandalone.switchMenuType</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    document</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      .</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">querySelectorAll</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">".menu-type-betternotes"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">)</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      .</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">forEach</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">((</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">el</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ((el </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> HTMLElement</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">).hidden </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> hidden));</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">    // Disable Zotero pdf export</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    (document.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">getElementById</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"menu_export_files"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">as</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> XUL</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">Element</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">).disabled </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">      !</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">hidden;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span></code></pre>
+</div><h4 id="标签页操作" tabindex="-1">标签页操作 <a class="header-anchor" href="#标签页操作" aria-label="Permalink to &quot;标签页操作&quot;">&ZeroWidthSpace;</a></h4>
+<p>通过 <code>select</code> / <code>jump</code> / <code>move</code> / <code>close</code> 等相关方法进行操作。</p>
+<div class="language-javascript vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">javascript</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">Zotero_Tabs.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">select</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"zotero-pane"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span></code></pre>
+</div><h2 id="文件操作" tabindex="-1">文件操作 <a class="header-anchor" href="#文件操作" aria-label="Permalink to &quot;文件操作&quot;">&ZeroWidthSpace;</a></h2>
+<div class="info custom-block"><p class="custom-block-title">Todo</p>
+<p>文件读写已迁移至 <a href="https://firefox-source-docs.mozilla.org/dom/ioutils_migration.html" target="_blank" rel="noreferrer">IOUtils</a> 和 <a href="https://searchfox.org/mozilla-esr102/source/dom/chrome-webidl/PathUtils.webidl" target="_blank" rel="noreferrer">PathUtils</a> 。</p>
+</div>
+<h2 id="clipboard-api" tabindex="-1">Clipboard API <a class="header-anchor" href="#clipboard-api" aria-label="Permalink to &quot;Clipboard API&quot;">&ZeroWidthSpace;</a></h2>
+<p>Zotero 中关于剪切板的相关接口。由于 Zotero 目前基于 FireFox60，因此无法使用现代浏览器的剪切板接口。
+样例代码为 Better Notes 插件提供的剪切板包装：</p>
+<div class="language-typescript vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">typescript</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">class</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> CopyHelper</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> {</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  transferable</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> any</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">  clipboardService</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> any</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  constructor</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">() {</span></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">    this</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.transferable </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> Components.classes[</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">      "@mozilla.org/widget/transferable;1"</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    ].</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">createInstance</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(Components.interfaces.nsITransferable);</span></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">    this</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.clipboardService </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> Components.classes[</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">      "@mozilla.org/widget/clipboard;1"</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    ].</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">getService</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(Components.interfaces.nsIClipboard);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  }</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  public</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> addText</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">source</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">type</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "text/html"</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> |</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF"> "text/unicode"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> str</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> Components.classes[</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">      "@mozilla.org/supports-string;1"</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    ].</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">createInstance</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(Components.interfaces.nsISupportsString);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    str.data </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">=</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> source;</span></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">    this</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.transferable.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">addDataFlavor</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(type);</span></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">    this</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.transferable.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">setTransferData</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(type, str, source.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> *</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> 2</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    return</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> this</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  }</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">  // Only Windows</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  public</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> addImage</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#E36209;--shiki-dark:#FFAB70">source</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">:</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> string</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">) {</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> io</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> Components.classes[</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">      "@mozilla.org/network/io-service;1"</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    ].</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">getService</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(Components.interfaces.nsIIOService);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> channel</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> io.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">newChannel</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(source, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> input</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> channel.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">open</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">();</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> imgTools</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> Components.classes[</span></span>
+<span class="line"><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">      "@mozilla.org/image/tools;1"</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    ].</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">getService</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(Components.interfaces.imgITools);</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> buffer</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> NetUtil.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">readInputStreamToString</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(input, input.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">available</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">());</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> container</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> imgTools.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">decodeImageFromBuffer</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      buffer,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      buffer.</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">length</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      channel.contentType</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    );</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">    this</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.transferable.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">addDataFlavor</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(channel.contentType);</span></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">    this</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.transferable.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">setTransferData</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(channel.contentType, container, </span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">-</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">1</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">    return</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> this</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">;</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  }</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">  public</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> copy</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">() {</span></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">    this</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.clipboardService.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">setData</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">      this</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">.transferable,</span></span>
+<span class="line"><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">      null</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">,</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      Components.interfaces.nsIClipboard.kGlobalClipboard</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    );</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  }</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">}</span></span></code></pre>
+</div><p>使用样例：</p>
+<div class="language-typescript vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">typescript</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">new</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> CopyHelper</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">()</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  .</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">addText</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(html, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"text/html"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">)</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  .</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">addText</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">this</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">._Addon.parse.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">parseHTMLToMD</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(html), </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"text/unicode"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">)</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  .</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">copy</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">();</span></span></code></pre>
+</div><h2 id="弹出通知" tabindex="-1">弹出通知 <a class="header-anchor" href="#弹出通知" aria-label="Permalink to &quot;弹出通知&quot;">&ZeroWidthSpace;</a></h2>
+<div class="language-javascript vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">javascript</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#D73A49;--shiki-dark:#F97583">const</span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF"> popMsg</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> =</span><span style="--shiki-light:#D73A49;--shiki-dark:#F97583"> new</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> Zotero.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">ProgressWindow</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">({ closeOnClick: </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">false</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> });</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">popMsg.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">changeHeadline</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"[Error]"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">""</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">, </span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"Chartero"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">);</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">popMsg.</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0">addDescription</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">(</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"</span></span></code></pre>
+</div>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[抓取文献条目信息的常见问题]]></title>
+            <link>https://zotero-chinese.com/user-guide/faqs/update-translators</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/faqs/update-translators</guid>
+            <pubDate>Sat, 24 Aug 2024 15:19:34 GMT</pubDate>
+            <description><![CDATA[抓取文献条目信息的常见问题
+本页面整理了一些抓取文献条目信息相关问题，你可以在右侧大纲栏（部分窄屏设备也可能在顶部「页面导航」）快速定位到你需要的内容。
+如果仍没有找到你需要的问题，可以考虑在 Zot]]></description>
+        </item>
+        <item>
+            <title><![CDATA[茉莉花]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/jasminum</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/jasminum</guid>
+            <pubDate>Thu, 22 Aug 2024 11:54:14 GMT</pubDate>
+            <description><![CDATA[::: info 关于插件
+这个插件用来增强 Zotero 对中文文献的支持能力，包括自动更新中文 translators、根据中文文献名检索其元数据等。
+- 项目主页：GitHub
+- 插件下载地址]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Awesome GPT for Zotero]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/zotero-gpt</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/zotero-gpt</guid>
+            <pubDate>Sat, 17 Aug 2024 01:45:15 GMT</pubDate>
+            <description><![CDATA[<h1 id="awesome-gpt-for-zotero" tabindex="-1">Awesome GPT for Zotero <a class="header-anchor" href="#awesome-gpt-for-zotero" aria-label="Permalink to &quot;Awesome GPT for Zotero&quot;">&ZeroWidthSpace;</a></h1>
+<p>Awesome GPT for Zotero 是一个由 MuiseDestiny 创建的开源 Zotero 插件。这个插件使得用户能够通过命令标签使用 Meet API，进一步增强 Zotero 与 GPT 模型（包括 gpt-3.5-turbo 和 gpt-4）的集成。</p>
+<ul>
+<li>项目主页：<a href="https://github.com/MuiseDestiny/zotero-gpt" target="_blank" rel="noreferrer">https://github.com/MuiseDestiny/zotero-gpt</a></li>
+<li>下载地址：<a href="https://zotero-chinese.com/plugins/#search=gpt" target="_blank" rel="noreferrer">插件商店 - Zotero 中文社区</a>。</li>
+<li>视频教程：<a href="https://www.bilibili.com/video/BV17N4y1o7vx/" target="_blank" rel="noreferrer">Zotero GPT - 使用教程，配置免费密钥！！！</a></li>
+</ul>
+<!-- <BiliBili bvid="BV17N4y1o7vx" /> -->
+<p>主要特点包括：</p>
+<ul>
+<li>✅ <strong>🔗 与 Zotero 集成</strong>：您可以使用该插件，根据所选文本或 PDF 文件搜索和查询资料库中的项目。</li>
+<li>✅ 🧠 使用 GPT 生成回复文本：支持 <code>gpt-3.5-turbo</code> 和 <code>gpt-4</code></li>
+<li>✅ <strong>🏷️ 命令标签</strong>：<strong>点击一次</strong>，加速研究。</li>
+<li>✅ 💬 就当前 <strong>PDF 文件</strong>（全文或选定文本）提出问题。</li>
+<li>✅ 💬 就<strong>所选论文</strong>（摘要）提问。</li>
+<li>✅ 📝 将所选论文<strong>概括</strong>成几个高度浓缩的句子。</li>
+<li>✅ 🔍 根据所选文本<strong>搜索</strong>图书馆中的项目。</li>
+<li>✅ ⚙️ <strong>GPT 的高级设置</strong>：可以设置 api 密钥、型号名称、api 网址、温度。</li>
+<li>✅ <strong>与 Better Notes 集成</strong>：使用 <a href="https://github.com/windingwind/zotero-better-notes" target="_blank" rel="noreferrer">Better Notes</a> 时可直接打开此插件。</li>
+</ul>
+<p>用户界面功能</p>
+<ul>
+<li>✅ 🎨 <strong>实时标记回复文本</strong>：支持 LaTeX 和 MathJax。</li>
+<li>✅ 🔍 <strong>放大或缩小</strong>回复文本或插件窗口的大小。</li>
+<li>✅ 🖱️ <strong>将插件窗口移动到屏幕上的任意位置</strong>。</li>
+<li>✅ 将回复文本<strong>复制到剪贴板</strong>。</li>
+<li>✅ ⚠️ 当<strong>请求失败</strong>时，将显示详细的错误信息。</li>
+<li>✅ 🔧 与 <strong>Zotero 6 和 Zotero 7 兼容</strong>。</li>
+</ul>
+<h2 id="如何使用-zotero-gpt" tabindex="-1">如何使用 Zotero GPT <a class="header-anchor" href="#如何使用-zotero-gpt" aria-label="Permalink to &quot;如何使用 Zotero GPT&quot;">&ZeroWidthSpace;</a></h2>
+<h3 id="基本操作" tabindex="-1">基本操作 <a class="header-anchor" href="#基本操作" aria-label="Permalink to &quot;基本操作&quot;">&ZeroWidthSpace;</a></h3>
+<p>| 动作               | 快捷键                                                                                                                                                               |
+|</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[关于 Word 引用的各种问题]]></title>
+            <link>https://zotero-chinese.com/user-guide/faqs/word-addon</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/faqs/word-addon</guid>
+            <pubDate>Tue, 13 Aug 2024 04:31:19 GMT</pubDate>
+            <description><![CDATA[关于 Word 引用的各种问题
+本页面整理了一些使用字处理插件常遇到的一些问题，你可以在右侧大纲栏（部分窄屏设备也可能在顶部「页面导航」）快速定位到你需要的内容。
+如果没有在本页面找到你需要的问题，可]]></description>
+        </item>
+        <item>
+            <title><![CDATA[通过 VBA 在 WPS 中使用 Word 插件]]></title>
+            <link>https://zotero-chinese.com/user-guide/misc/wps-plugin-vba</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/misc/wps-plugin-vba</guid>
+            <pubDate>Tue, 13 Aug 2024 04:31:19 GMT</pubDate>
+            <description><![CDATA[通过 VBA 在 WPS 中使用 Word 插件
+ 前言（很重要哦！）
+:::info
+Zotero Word 插件在 WPS 的使用操作与 Office Word 类似，因此不再展开说明，点击下方蓝]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在 Word 中插入参考文献]]></title>
+            <link>https://zotero-chinese.com/user-guide/ms-word-plugin</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/ms-word-plugin</guid>
+            <pubDate>Tue, 13 Aug 2024 04:31:19 GMT</pubDate>
+            <description><![CDATA[<h1 id="在-word-中插入参考文献" tabindex="-1">在 Word 中插入参考文献 <a class="header-anchor" href="#在-word-中插入参考文献" aria-label="Permalink to &quot;在 Word 中插入参考文献&quot;">&ZeroWidthSpace;</a></h1>
+<p>这些是使用 Zotero for MS Office Word 插件的说明。</p>
+<p>要在 WPS 中使用插件，请参见 <a href="./wps-plugin.html">在 WPS 中使用 Zotero Word 插件</a>。</p>
+<h2 id="zotero-word-插件选项卡" tabindex="-1">Zotero Word 插件选项卡 <a class="header-anchor" href="#zotero-word-插件选项卡" aria-label="Permalink to &quot;Zotero Word 插件选项卡&quot;">&ZeroWidthSpace;</a></h2>
+<p><img src="./../assets/images/word-zotero窗格.png" alt="Zotero Word 插件选项卡" loading="lazy"></p>
+<p>一般情况下，Zotero 安装时会安装 Zotero Word 插件，其会在 Microsoft Word 里添加一个 Zotero 选项卡。如果你的 Word 里没有 Zotero 选项卡，请参见 <a href="./faqs/word-addon.html#word-中没有-zotero-选项卡">故障排除 | 安装 Zotero 的 Word 插件</a> 。</p>
+<p>Zotero 选项卡包含以下图标：</p>
+<p>| 名称                | 图标                                                                               | 描述                                                                                                                                                   |
+|</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[为什么使用 Zotero]]></title>
+            <link>https://zotero-chinese.com/user-guide/why-use-zotero</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/why-use-zotero</guid>
+            <pubDate>Sun, 11 Aug 2024 11:29:39 GMT</pubDate>
+            <description><![CDATA[为什么使用 Zotero
+::: info
+本页部分内容翻译自 Zotero 官方首页 和 Why Zotero。
+:::
+ Zotero 是你的科研助理
+Zotero 是一款免费、易于使用的工具，可]]></description>
+        </item>
+        <item>
+            <title><![CDATA[文档风格指南]]></title>
+            <link>https://zotero-chinese.com/contributing/markdown</link>
+            <guid>https://zotero-chinese.com/wiki/contributing/markdown</guid>
+            <pubDate>Sun, 11 Aug 2024 04:18:14 GMT</pubDate>
+            <description><![CDATA[<h1 id="文档风格指南" tabindex="-1">文档风格指南 <a class="header-anchor" href="#文档风格指南" aria-label="Permalink to &quot;文档风格指南&quot;">&ZeroWidthSpace;</a></h1>
+<p>本文档旨在对于 Zotero 中文社区上发表文档的语言、版式、内容元素等方面提出可执行的要求，以便维持和改进文档的整体水平与可读性。</p>
+<p>本文档未涉及的风格问题，应参考中文互联网一般实践，以及中文出版物的行业标准和国家标准；仍然不能得出结论的，可依兼顾严谨与开明的方针自行判断。</p>
+<nav class="table-of-contents"><ul><li><a href="#文件命名">文件命名</a></li><li><a href="#文档-frontmatter-规范">文档 FrontMatter 规范</a></li></ul></nav>
+<h2 id="文件命名" tabindex="-1">文件命名 <a class="header-anchor" href="#文件命名" aria-label="Permalink to &quot;文件命名&quot;">&ZeroWidthSpace;</a></h2>
+<p>文档网站根据每个 Markdown 源文件的路径确定每个页面的路由。因而，确定文件名时应慎重，一旦确定，尽量不要再改动。
+由于 Windows 不区分文件名大小写，故而 <code>option-B.md</code> 和 <code>option-b.md</code> 在 Windows 下会出现冲突。</p>
+<p>我们使用的文件的命名规则是：</p>
+<ul>
+<li>文件名一律采用小写字母</li>
+<li>文件名应尽量使用单词全称，避免使用各种形式的简写</li>
+<li>若文件名中含多个单词，应使用连字符 (hyphen) <code>-</code> 连接</li>
+</ul>
+<h2 id="文档-frontmatter-规范" tabindex="-1">文档 FrontMatter 规范 <a class="header-anchor" href="#文档-frontmatter-规范" aria-label="Permalink to &quot;文档 FrontMatter 规范&quot;">&ZeroWidthSpace;</a></h2>
+<p>通过 FrontMatter 为每个 Markdown 页面引入配置。</p>
+<p>一般情况下，不需要手动配置 FrontMatter。</p>
+<details class="details custom-block"><summary>详细信息</summary>
+<p>Frontmatter 必须在 Markdown 文件的顶部，并且被包裹在一对三短划线中间。下面是一个基本的示例:</p>
+<div class="language-md vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">md</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"></span></code></pre>
+</div></details>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用 GitHub Codespace 修改文档]]></title>
+            <link>https://zotero-chinese.com/contributing/github-codespace</link>
+            <guid>https://zotero-chinese.com/wiki/contributing/github-codespace</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[GitHub 代码空间是托管在云上的开发环境，这使得我们无需再安装 VS Code, Node.js 和 Git 等开发软件，就可以对文档进行维护编辑。
+从名称很明显可以看出，「代码空间」是由 Git]]></description>
+        </item>
+        <item>
+            <title><![CDATA[文档修改指南]]></title>
+            <link>https://zotero-chinese.com/contributing/wiki</link>
+            <guid>https://zotero-chinese.com/wiki/contributing/wiki</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[文档修改指南
+ 项目概述
+本文档使用 Markdown 语法编写，Markdown 文件存储在 GitHub 上，使用 VitePress 作为静态页面生成器，通过 GitHub Actions 自动]]></description>
+        </item>
+        <item>
+            <title><![CDATA[术语对照表]]></title>
+            <link>https://zotero-chinese.com/csl-dev-guide/glossary</link>
+            <guid>https://zotero-chinese.com/wiki/csl-dev-guide/glossary</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[术语对照表
+以下按照在文中出现的顺序罗列了本文翻译时对某些术语采取的译法，并给出其基本解释，便于读者对照理解。这些术语可能比较少见，或在本文中有特定的含义，其他涉及技术背景的术语已经在正文中给出解释，]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSL 介绍]]></title>
+            <link>https://zotero-chinese.com/csl-dev-guide/primer</link>
+            <guid>https://zotero-chinese.com/wiki/csl-dev-guide/primer</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[CSL 介绍
+ 前言
+本节是对 Citation Style Language（CSL）的简单介绍，CSL 是一种基于 XML 的开放 (开源) 语言，用于描述引注和参考文献表的格式。对 CSL 更技]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSL 1.0.2 规范]]></title>
+            <link>https://zotero-chinese.com/csl-dev-guide/specification</link>
+            <guid>https://zotero-chinese.com/wiki/csl-dev-guide/specification</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[<h1 id="csl-1-0-2-规范" tabindex="-1">CSL 1.0.2 规范 <a class="header-anchor" href="#csl-1-0-2-规范" aria-label="Permalink to &quot;CSL 1.0.2 规范&quot;">&ZeroWidthSpace;</a></h1>
+<p>主要作者：<a href="https://twitter.com/rintzezelle" target="_blank" rel="noreferrer">Rintze M. Zelle， PhD</a>、 <a href="https://twitter.com/bmwiernik" target="_blank" rel="noreferrer">Brenton M. Wiernik</a>、Frank G. Bennett， Jr.、 Bruce D’Arcus、Denis Maier</p>
+<p>其他贡献者：Julien Gonzalez、Sebastian Karcher、Sylvester Keil、Cormac Relf、Lars Willighagen and other CSL contributors.</p>
+<p>译者：<a href="https://github.com/ZMAlt" target="_blank" rel="noreferrer">Mao Zhou</a>、 <a href="https://github.com/northword" target="_blank" rel="noreferrer">Northword</a>。</p>
+<p>此工作以  <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">Creative Commons Attribution-ShareAlike 4.0 International License</a> 授权。</p>
+<h2 id="介绍" tabindex="-1">介绍 <a class="header-anchor" href="#介绍" aria-label="Permalink to &quot;介绍&quot;">&ZeroWidthSpace;</a></h2>
+<p>CSL（Citation Style Language，引文样式语言） 是一种基于 XML 的格式，用来描述引文、注释和参考文献的格式，他提供了：</p>
+<ul>
+<li>一种开放的 (开源的) 格式</li>
+<li>紧凑、稳定的样式</li>
+<li>对样式要求的广泛支持</li>
+<li>样式自动本地化</li>
+<li>对样式发布和更新的基本支持</li>
+<li>数千种免费提供的样式（CC BY-SA 授权）</li>
+</ul>
+<p>有关的其他文档，CSL 议程，样式和本地化文件详见 <a href="https://citationstyles.org/" target="_blank" rel="noreferrer">CSL 项目主页</a>。</p>
+<h2 id="术语" tabindex="-1">术语 <a class="header-anchor" href="#术语" aria-label="Permalink to &quot;术语&quot;">&ZeroWidthSpace;</a></h2>
+<p>关键字 MUST，MUST NOT，REQUIRED，SHALL，SHALL NOT，SHOULD，SHOULD NOT，RECOMMENDED，MAY 和 OPTIONAL 按 <a href="http://tools.ietf.org/html/rfc2119" target="_blank" rel="noreferrer">IETF RFC 2119</a> 中的描述解释。</p>
+<div class="info custom-block"><p class="custom-block-title">译者注：关于 IETF RFC 2119 协议</p>
+<p>RFC ，即 <strong>R</strong>equest <strong>f</strong>or <strong>C</strong>omments，意见征求稿，是由 <a href="http://www.ietf.org/" target="_blank" rel="noreferrer">The Internet Engineering Task Force</a> 制作的文档，其中许多是各种 Internet 协议的官方标准。</p>
+<p>RFC 2119 协议全文：&lt;<a href="https://www.ietf.org/rfc/rfc2119.txt" target="_blank" rel="noreferrer">https://www.ietf.org/rfc/rfc2119.txt</a></p>
+<p><strong>MUST</strong>：必须的。通过它描述的对象，是强制要求的。它与 REQUIRED 和 SHALL 含义相同。</p>
+<p><strong>MUST NOT</strong>：不允许的。通过它描述的对象也是强制的。与 SHALL NOT 同义。</p>
+<p><strong>SHOULD</strong>：在通常情况下，应当这样。但是，特殊情况下除外。与 RECOMMENDED 同义。</p>
+<p><strong>SHOULD NOT</strong>：在通常情况下，不是这样。但是，特殊情况下除外。与 NOT RECOMMENDED 同义。</p>
+<p><strong>MAY</strong>：可选的描述对象。与 OPTIONAL 同义。</p>
+</div>
+<h2 id="命名空间" tabindex="-1">命名空间 <a class="header-anchor" href="#命名空间" aria-label="Permalink to &quot;命名空间&quot;">&ZeroWidthSpace;</a></h2>
+<blockquote>
+<p>Namespacing</p>
+</blockquote>
+<p>CSL XML 命名空间 URI 是 <a href="http://purl.org/net/xbiblio/csl" target="_blank" rel="noreferrer">http://purl.org/net/xbiblio/csl</a>。</p>
+<p>在本规范中，当提及 CSL 元素时，命名空间前缀为 <code>cs:</code> ，但对于根元素 <code>cs:style</code> 或 <code>cs:locale</code> 的默认命名空间声明（用 <code>xmlns</code> 属性设置），通常省略 <code>cs:</code>。</p>
+<h2 id="空格处理" tabindex="-1">空格处理 <a class="header-anchor" href="#空格处理" aria-label="Permalink to &quot;空格处理&quot;">&ZeroWidthSpace;</a></h2>
+<div class="warning custom-block"><p class="custom-block-title">警告</p>
+<p>Whitespace Handling
+翻译有一些疑惑，请参阅原文，欢迎提出改善意见。</p>
+</div>
+<p>CSL styles are valid XML, but CSL processors MUST NOT normalize attribute values by trimming leading or trailing whitespace from attributes which define text that is intended for output:</p>
+<p>CSL 样式是有效的 XML，但是 CSL 处理器不会（MUST NOT）通过修剪以下属性值前后的空格来规范输出。</p>
+<ul>
+<li>after-collapse-delimiter</li>
+<li>cite-group-delimiter</li>
+<li>delimiter</li>
+<li>initialize-with</li>
+<li>name-delimiter</li>
+<li>names-delimiter</li>
+<li>prefix</li>
+<li>range-delimiter</li>
+<li>sort-separator</li>
+<li>suffix</li>
+<li>year-suffix-delimiter</li>
+<li>value</li>
+</ul>
+<h2 id="文件类型" tabindex="-1">文件类型 <a class="header-anchor" href="#文件类型" aria-label="Permalink to &quot;文件类型&quot;">&ZeroWidthSpace;</a></h2>
+<p>CSL 文件有 3 种类型：独立样式、从属样式（都使用 <code>.csl</code> 作为扩展名），以及 本地化文件（名字为 <code>locales-xx-XX.xml</code>，其中 <code>xx-XX</code> 表示语言以及其方言，例如 <code>en-US</code> 表示美式英语）。</p>
+<h3 id="独立样式" tabindex="-1">独立样式 <a class="header-anchor" href="#独立样式" aria-label="Permalink to &quot;独立样式&quot;">&ZeroWidthSpace;</a></h3>
+<p>独立样式包含了对引文，笔记以及参考书目的描述。虽然它们大多数都是自成一体的（即不依赖其他样式），但是（默认）依赖于本地化文件。</p>
+<h3 id="从属样式" tabindex="-1">从属样式 <a class="header-anchor" href="#从属样式" aria-label="Permalink to &quot;从属样式&quot;">&ZeroWidthSpace;</a></h3>
+<p>从属样式是独立样式的别名（alias），其仅包含样式元数据，不包括任何格式的指示。</p>
+<p>通过将具有相同引用风格的期刊（例如 &quot;Nature Biotechnology&quot;，&quot;Nature Nanotechnology&quot;）的从属样式链接到一个单独的独立样式（例如 &quot;Nature Journals&quot;），从属样式就不再需要再重复一遍格式说明。</p>
+<div class="info custom-block"><p class="custom-block-title">译者注</p>
+<p>也就是说从属样式是依赖其他样式的，被依赖的样式成为称为<strong>父样式</strong>。</p>
+</div>
+<h3 id="本地化文件" tabindex="-1">本地化文件 <a class="header-anchor" href="#本地化文件" aria-label="Permalink to &quot;本地化文件&quot;">&ZeroWidthSpace;</a></h3>
+<p>每个本地化文件包含一系列对某种特定的语言 / 方言的本地化数据（术语翻译，本地化日期格式以及语法选项）。</p>
+<div class="info custom-block"><p class="custom-block-title">译者注</p>
+<p>本地化文件主要用于在不同的语言环境中使用样式，比如在中文环境中使用，中文对应的本地化文件可以将英文中的 <code>et al.</code> 替换为 <code>等</code> 。</p>
+</div>
+<h2 id="xml-声明" tabindex="-1">XML 声明 <a class="header-anchor" href="#xml-声明" aria-label="Permalink to &quot;XML 声明&quot;">&ZeroWidthSpace;</a></h2>
+<blockquote>
+<p>XML Declaration</p>
+</blockquote>
+<p>每个样式或者本地化文件应该以 XML 声明开头，指定具体的 XML 版本以及字符编码。多数情况下，XML 声明可以是：</p>
+<div class="language-xml vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">xml</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;?</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">xml</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> version</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"1.0"</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> encoding</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"UTF-8"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">?></span></span></code></pre>
+</div><h2 id="样式的结构" tabindex="-1">样式的结构 <a class="header-anchor" href="#样式的结构" aria-label="Permalink to &quot;样式的结构&quot;">&ZeroWidthSpace;</a></h2>
+<div class="warning custom-block"><p class="custom-block-title">警告</p>
+<p>此节尚未校对完成</p>
+</div>
+<h3 id="根元素-cs-style" tabindex="-1">根元素 <code>cs:style</code> <a class="header-anchor" href="#根元素-cs-style" aria-label="Permalink to &quot;根元素 `cs:style`&quot;">&ZeroWidthSpace;</a></h3>
+<p>样式的根元素是 <code>cs:style</code>。在 <a href="#独立样式">独立样式</a> 中，根元素有以下几种属性：</p>
+<h4 id="class" tabindex="-1"><code>class</code> <a class="header-anchor" href="#class" aria-label="Permalink to &quot;`class`&quot;">&ZeroWidthSpace;</a></h4>
+<p>🏳️ Default: <em>none</em> — 决定样式的 <a href="./primer.html#csstyle-根元素">引文格式</a> 是 in-text 类型（值 <code>in-text</code>） 或者 note 类型（值 <code>note</code>）。</p>
+<div class="info custom-block"><p class="custom-block-title">译者注</p>
+<p>in-text 表示引文在文字中，note 表示引文不在文字中，可能是脚注等。</p>
+</div>
+<h4 id="default-locale" tabindex="-1"><code>default-locale</code> <a class="header-anchor" href="#default-locale" aria-label="Permalink to &quot;`default-locale`&quot;">&ZeroWidthSpace;</a></h4>
+<p>🏳️ Default: <em>none</em> · Optional — 为本地化设值默认的 locale。值必须是 <a href="http://books.xmlschemata.org/relaxng/ch19-77191.html" target="_blank" rel="noreferrer">locale code</a>。</p>
+<div class="tip custom-block"><p class="custom-block-title">译者注：常用 local_code</p>
+<p>zh-CN：中文（中国）
+zh-hk：中文（台湾）
+zh：中文
+en-US：
+可以参阅 <a href="https://docs.microsoft.com/zh-cn/windows/win32/wmformat/language-strings" target="_blank" rel="noreferrer">Language Strings | Microsoft Docs</a></p>
+</div>
+<h4 id="version" tabindex="-1"><code>version</code> <a class="header-anchor" href="#version" aria-label="Permalink to &quot;`version`&quot;">&ZeroWidthSpace;</a></h4>
+<p>🏳️ Default: <em>none</em> · ⚠ Required — 样式的 CSL 版本。对于 CSL 1.0 兼容样式，必须是 <code>1.0</code>。</p>
+<p>此外，<code>cs:style</code> 可能携带任意的 <a href="./specification.html#全局选项">全局选项</a> 和 <a href="./specification.html#可继承的名称选项">可继承的名称选项</a> 。</p>
+<p>在这些属性中，<a href="#从属样式">从属样式</a> 中，只有 <code>version</code> 是必须的， <code>default-locale</code> 属性可以设置用来代替的默认的本地化文件 。其他的属性是可以忽略的。</p>
+<p>下面是一个 <a href="#独立样式">独立样式</a> 的 <code>cs:style</code> 示例，第一行是 XML 声明：</p>
+<div class="language-xml vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">xml</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;?</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">xml</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> version</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"1.0"</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> encoding</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"UTF-8"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">?></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">style</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> xmlns</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"http://purl.org/net/xbiblio/csl"</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> version</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"1.0"</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> class</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"in-text"</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> default-locale</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"fr-FR"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">/></span></span></code></pre>
+</div><h3 id="cs-style-的子元素" tabindex="-1"><code>cs:style</code> 的子元素 <a class="header-anchor" href="#cs-style-的子元素" aria-label="Permalink to &quot;`cs:style` 的子元素&quot;">&ZeroWidthSpace;</a></h3>
+<p>在 <a href="#独立样式">独立样式</a> 中，<code>cs:style</code> 有以下子元素：</p>
+<p><code>cs:info</code></p>
+<p>🏳️ Default: <em>none</em> · ⚠ Required · ⚠ 必须为第一个子元素 — 描述样式的元数据 ：样式名称（style name）、样式 ID（ID）、样式作者（authors）。</p>
+<p><code>cs:citation</code></p>
+<p>🏳️ Default: <em>none</em> · ⚠ Required — 用来描述 in-text 引文或者 notes 引文的具体格式。</p>
+<p><code>cs:bibliography</code></p>
+<p>🏳️ Default: <em>none</em> · Optional — 可能会出现一次。描述参考文献列表的格式。</p>
+<p><code>cs:macro</code></p>
+<p>🏳️ Default: <em>none</em> · Optional — 可能出现多次。宏可以将格式指示重复使用，使样式更加的紧凑和易维护。</p>
+<p><code>cs:locale</code></p>
+<p>🏳️ Default: <em>none</em> · Optional — 可能出现多次。用于指定或者覆盖当前的本地化数据。</p>
+<p>在 <a href="#从属样式">从属样式</a> 中，<code>cs:style</code> 只有 <code>cs:info</code> 一个子元素。</p>
+<h4 id="info" tabindex="-1">Info <a class="header-anchor" href="#info" aria-label="Permalink to &quot;Info&quot;">&ZeroWidthSpace;</a></h4>
+<p><code>cs:info</code> 包含了样式的元数据。其结构基于 <a href="http://tools.ietf.org/html/rfc4287" target="_blank" rel="noreferrer">Atom Syndication Format</a>。在独立样式中，<code>cs:info</code> 有下面的几个子元素：</p>
+<h5 id="cs-author-和-cs-contributor" tabindex="-1"><code>cs:author</code> 和 <code>cs:contributor</code> <a class="header-anchor" href="#cs-author-和-cs-contributor" aria-label="Permalink to &quot;`cs:author` 和 `cs:contributor`&quot;">&ZeroWidthSpace;</a></h5>
+<p>🏳️ Default: <em>none</em> · Optional — <code>cs:author</code> 和 <code>cs:contributor</code> 分别用来致谢样式的作者和贡献者，可能被使用多次。</p>
+<pre><code> `cs:name`
+
+ 🏳️ Default: _none_ ·  ⚠ Required — 作者或贡献者的姓名。
+
+ `cs:email` 和 `cs:uri`
+
+ 🏳️ Default: _none_ ·  Optional — 作者或者贡献者邮箱和 URI。
+</code></pre>
+<h5 id="cs-category" tabindex="-1"><code>cs:category</code> <a class="header-anchor" href="#cs-category" aria-label="Permalink to &quot;`cs:category`&quot;">&ZeroWidthSpace;</a></h5>
+<p>🏳️ Default: <em>none</em> · Optional — 样式可能被分类到一个或者多个类别，<code>cs:category</code> 可能被使用一次，用来描述 in-text 引文怎么渲染。使用 <code>citation-format</code> 属性设置其为以下几种情形：</p>
+<ul>
+<li>
+<p><code>author-date</code> - 例如 <code>… (Doe, 1999)</code></p>
+</li>
+<li>
+<p><code>author</code> - 例如 <code>… (Doe)</code></p>
+</li>
+<li>
+<p><code>numeric</code> - 例如 <code>… [1]</code></p>
+</li>
+<li>
+<p><code>label</code> - 例如 <code>… [doe99]</code></p>
+</li>
+<li>
+<p><code>note</code> - 因为在边注或者脚注出现。</p>
+<p><code>cs:categroy</code> 也可能在携带 <code>field</code> 属性时多次使用，用来对学科进行分类（见 [附录 I 学科分类](附录 I 学科分类)）。</p>
+</li>
+</ul>
+<h5 id="cs-id" tabindex="-1"><code>cs:id</code> <a class="header-anchor" href="#cs-id" aria-label="Permalink to &quot;`cs:id`&quot;">&ZeroWidthSpace;</a></h5>
+<p>🏳️ Default: <em>none</em> · ⚠ Required — 必须出现一次。该元素应该包含一个 URI 以建立样式的 <code>ID</code>，对于公开可用的样式，需要一个稳定、唯一的并可以引用的 URI。</p>
+<h5 id="cs-issn-cs-essn-cs-issnl" tabindex="-1"><code>cs:issn/cs:essn/cs:issnl</code> <a class="header-anchor" href="#cs-issn-cs-essn-cs-issnl" aria-label="Permalink to &quot;`cs:issn/cs:essn/cs:issnl`&quot;">&ZeroWidthSpace;</a></h5>
+<p>🏳️ Default: <em>none</em> · Optional — <code>cs:issn</code> 元素可以多次使用，用来表示该 CSL 对应的期刊的 ISSN 。 <code>cs:eissn</code> 和 <code>cs:issnl</code> 可以分别用来表示 eISSN 和 <a href="http://www.issn.org/2-22637-What-is-an-ISSN-L.php" target="_blank" rel="noreferrer">ISSN-L</a> 。</p>
+<h5 id="cs-link" tabindex="-1"><code>cs:link</code> <a class="header-anchor" href="#cs-link" aria-label="Permalink to &quot;`cs:link`&quot;">&ZeroWidthSpace;</a></h5>
+<p>🏳️ Default: <em>none</em> · Optional — 可以使用多次。<code>cs:link</code> 必须携带两个属性 <code>href</code> 和 <code>rel</code>。</p>
+<pre><code>`href`
+⚠ Required — 用来设置 URI （通常情况下为 URL）
+
+`rel`
+⚠ Required — 表明 URI 与当前样式的关系，它的值有：
+
+    - `self` - 该 URI 值为样式本身的 URI
+    - `template` - 该 URI 是用来编写该样式的模板的 URI
+    - `documentation` - 该 URI 是该样式的文档
+</code></pre>
+<h5 id="cs-published" tabindex="-1"><code>cs:published</code> <a class="header-anchor" href="#cs-published" aria-label="Permalink to &quot;`cs:published`&quot;">&ZeroWidthSpace;</a></h5>
+<p>🏳️ Default: <em>none</em> · Optional — <code>cs:published</code> 必须是一个 <a href="http://books.xmlschemata.org/relaxng/ch19-77049.html" target="_blank" rel="noreferrer">时间戳</a>，用来表明样式创建的时间或者可获得的时间。</p>
+<h5 id="cs-rights" tabindex="-1"><code>cs:rights</code> <a class="header-anchor" href="#cs-rights" aria-label="Permalink to &quot;`cs:rights`&quot;">&ZeroWidthSpace;</a></h5>
+<p>🏳️ Default: <em>none</em> · Optional — <code>cs:rights</code> 表明了该 CSL 的 license，可能会携带 <code>license</code> 属性。</p>
+<h5 id="cs-summary" tabindex="-1"><code>cs:summary</code> <a class="header-anchor" href="#cs-summary" aria-label="Permalink to &quot;`cs:summary`&quot;">&ZeroWidthSpace;</a></h5>
+<p>🏳️ Default: <em>none</em> · Optional — 给出该 CSL 的简单描述。</p>
+<h5 id="cs-title" tabindex="-1"><code>cs:title</code> <a class="header-anchor" href="#cs-title" aria-label="Permalink to &quot;`cs:title`&quot;">&ZeroWidthSpace;</a></h5>
+<p>🏳️ Default: <em>none</em> · ⚠ Required — 其内容应该是该 CSL 展示给使用者的名字。</p>
+<h5 id="cs-title-short" tabindex="-1"><code>cs:title-short</code> <a class="header-anchor" href="#cs-title-short" aria-label="Permalink to &quot;`cs:title-short`&quot;">&ZeroWidthSpace;</a></h5>
+<p>🏳️ Default: <em>none</em> · Optional — 是上述名字的缩写，比如 <code>APA</code></p>
+<h5 id="cs-updated" tabindex="-1"><code>cs:updated</code> <a class="header-anchor" href="#cs-updated" aria-label="Permalink to &quot;`cs:updated`&quot;">&ZeroWidthSpace;</a></h5>
+<p>🏳️ Default: <em>none</em> · — 内容是一个 <a href="http://books.xmlschemata.org/relaxng/ch19-77049.html" target="_blank" rel="noreferrer">时间戳</a>，用来表示该 CSL 的最后更新时间。</p>
+<p><code>cs:link</code>，<code>cs:rights</code>，<code>cs:summary</code>， <code>cs:title</code> 和 <code>cs:title-short</code> 元素可以携带 <code>xml:lang</code> 属性用来表示元素内容的语言（值必须是 <a href="http://books.xmlschemata.org/relaxng/ch19-77191.html" target="_blank" rel="noreferrer">xsd:language locale code</a> 中的一个）。对于 <code>cs:link</code>，该属性可以用来表示链接目标的语言。</p>
+<p>在从属格式中，当 <code>cs:link</code> 中的 <code>href</code> 为其父格式的 URI 时，<code>rel</code> 属性必须设置为 <code>&quot;independent-parent&quot;</code>。此外，从属格式的 <code>ref</code> 不能设置为 <code>template</code>，这在独立格式中才能使用。</p>
+<p>下面是一个独立样式 <code>cs:info</code> 的例子：</p>
+<div class="language-xml vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">xml</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">info</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">title</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>Style Title&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">title</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">id</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>http://www.zotero.org/styles/style-title&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">id</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">link</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> href</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"http://www.zotero.org/styles/style-title"</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> rel</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"self"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">/></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">author</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">name</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>Author Name&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">name</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">email</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>name@domain.com&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">email</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">uri</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>http://www.domain.com/name&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">uri</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">author</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">category</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> citation-format</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"author-date"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">/></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">category</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> field</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"zoology"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">/></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">updated</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>2008-10-29T21:01:24+00:00&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">updated</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">rights</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> license</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"http://creativecommons.org/licenses/by-sa/3.0/"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>This work</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  is licensed under a Creative Commons Attribution-Share Alike 3.0 Unported</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  License&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">rights</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">info</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span></code></pre>
+</div><h4 id="citation" tabindex="-1">Citation <a class="header-anchor" href="#citation" aria-label="Permalink to &quot;Citation&quot;">&ZeroWidthSpace;</a></h4>
+<p><code>cs:citation</code> 元素描述了引注的格式，其中引注可以是一条或者多条。引注的格式可能是 in-text citations（即文字中的引注）和 notes（注记）。in-text citations 包括 (<code>author</code>，例: <code>[Doe]</code>，<code>author-date</code>，例: <code>[Doe 1999]</code>，<code>label</code>，例: <code>[doe99]</code>，或者 <code>number</code>，例:<code>[1]</code> ) 。这要求 <code>cs:layout</code> 子元素来描述什么样的数据，以及怎么被引用（见 <a href="./specification.html#Layout">Layout</a> ）。在 <code>cs:layout</code> 之前可能会有 <code>cs:sort</code> 元素，用来描述引文的排序（见 <a href="#排序">排序</a>）。此外，<code>cs:style</code> 可能携带任意的 <a href="./specification.html#引文选项">引文选项</a> 和 <a href="./specification.html#可继承的名称选项">可继承的名称选项</a> 中的属性。下面是一个 <code>cs:citation</code> 的例子：</p>
+<div class="language-xml vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">xml</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">citation</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">sort</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">key</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> variable</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"citation-number"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">/></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">sort</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">layout</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">text</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> variable</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"citation-number"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">/></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">layout</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">citation</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span></code></pre>
+</div><p><strong>对 CSL 处理器开发者的一个建议</strong></p>
+<p>在 note 格式中，引文通常是一个句子。因此，当注释前面没有内容时，引文的首字母最好大写。在其他情况，引文应该是用原样打印。</p>
+<h4 id="bioliography" tabindex="-1">Bioliography <a class="header-anchor" href="#bioliography" aria-label="Permalink to &quot;Bioliography&quot;">&ZeroWidthSpace;</a></h4>
+<p><code>cs:bioliography</code> 元素描述了参考文献条目的格式。同 <code>cs:citation</code> 相同，其子元素 <code>cs:layout</code> 用来描述每个条目的格式，<code>cs:sort</code> 元素用来描述条目的排序。此外，<code>cs:bibliography</code> 可能携带任意的 <a href="#参考文献目录选项">参考文献目录选项</a> 和 <a href="#可继承的名称选项">可继承名称选项</a> 中的属性。下面是一个 <code>cs:bioliography</code> 的例子：</p>
+<div class="language-xml vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">xml</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">bibliography</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">sort</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">key</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> macro</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"author"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">/></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">sort</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">layout</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">group</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> delimiter</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">". "</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">text</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> macro</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"author"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">/></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">text</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> variable</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"title"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">/></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">group</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">layout</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">bibliography</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span></code></pre>
+</div><h4 id="macro" tabindex="-1">Macro <a class="header-anchor" href="#macro" aria-label="Permalink to &quot;Macro&quot;">&ZeroWidthSpace;</a></h4>
+<p>宏，使用 <code>cs:macro</code> 元素定义，包含了格式的指令。宏可以在其他宏，<code>cs:layout</code> 元素 (<code>cs:citation</code> 和 <code>cs:bioliography</code> 中)，<code>cs:key</code> 元素 (<code>cs:sort</code> 元素) 中通过 <code>cs:text</code> 调用。宏在文件中位置的通常建议是：放在 <code>cs:locale</code> 元素后以及 <code>cs:citation</code> 元素前。</p>
+<p>宏通过 <code>cs:macro</code> 元素的属性 <code>name</code> 的值来调用。<code>cs:macro</code> 必须包含一个或者多个 <a href="#渲染元素">渲染元素</a>。</p>
+<p>使用宏可以提高样式的可读性，紧凑性以及可维护性。通过过宏调用来保持 <code>cs:citation</code> 元素和 <code>cs:bioliography</code> 元素的内容紧凑通常是推荐的做法。为了在其他样式中方便的重复使用，宏名字建议使用通用的名字。</p>
+<p>下面是一个实例：引文中包括项目题目，并当条目为 <code>&quot;book&quot;</code> 时，设置字体为 <code>italic</code>。</p>
+<div class="language-xml vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">xml</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">style</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">macro</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> name</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"title"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">choose</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">if</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> type</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"book"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">text</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> variable</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"title"</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> font-style</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"italic"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">/></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">if</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">else</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">text</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> variable</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"title"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">/></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">else</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">choose</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">macro</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">citation</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">layout</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">text</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> macro</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"title"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">/></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">layout</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">citation</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">style</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span></code></pre>
+</div><h4 id="locale" tabindex="-1">Locale <a class="header-anchor" href="#locale" aria-label="Permalink to &quot;Locale&quot;">&ZeroWidthSpace;</a></h4>
+<p>来自 <code>&quot;locales-xx-XX.xml&quot;</code>locale file 的本地化数据可以通过 <code>cs:locale</code> 元素来重定义或者补充定义。<code>cs:locale</code> 元素应该放在 <code>cs:info</code> 元素后。</p>
+<p><code>cs:locale</code> 元素的 <code>xml:lang</code> 属性是可选的，必须设置为 <a href="http://books.xmlschemata.org/relaxng/ch19-77191.html" target="_blank" rel="noreferrer">xsd:language locale code</a> 中的一种，用来确定使用的语言环境（或方言，见 [locale fallback](locale fallback)）。</p>
+<p>对于 <code>cs:locale</code> 元素的详细使用，另见 <a href="#术语">术语</a>、<a href="#本地化日期格式">本地化日期格式</a> 和 <a href="#本地化选项">本地化选项</a>。</p>
+<p>下面是一个 <code>cs:locale</code> 元素的例子：</p>
+<div class="language-xml vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">xml</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">style</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">locale</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> xml:lang</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"en"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">terms</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">term</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> name</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"editortranslator"</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> form</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"short"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">single</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>ed. </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">&#x26;amp;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> trans.&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">single</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">        &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">multiple</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>eds. </span><span style="--shiki-light:#005CC5;--shiki-dark:#79B8FF">&#x26;amp;</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> trans.&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">multiple</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">      &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">term</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">terms</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">locale</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">style</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span></code></pre>
+</div><p><strong>Locale Fallback</strong></p>
+<p>本地化文件为语言方言提供了本地化数据；可选的 <code>cs:locale</code> 元素的 <code>xml:lang</code> 属性设置为一种语言 (例如， <code>&quot;en&quot;</code> 代表英语 ) 或者方言 (例如， <code>&quot;en-US&quot;</code> 代表美式英语 ) ，<code>xml:lang</code> 属性也可能缺失。Localr fallback 是一种在上述的属性设置中检索来确定本地化单元的机制。这些本地化单元包括日期格式，本地化选项或者术语的特定形式。</p>
+<p>对于同一种语言的方言，一种被称为初级方言，其他都是二级方言。下面展示了部分语言的初级方言和二级方言：</p>
+<p>| 初级方言 | 二级方言     |
+|</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[调试代码]]></title>
+            <link>https://zotero-chinese.com/plugin-dev-guide/development/debug</link>
+            <guid>https://zotero-chinese.com/wiki/plugin-dev-guide/development/debug</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[调试代码
+ 通过 Run JavaScript 调试
+从 「菜单栏」-
+在左侧键入代码，点击运行即可在右侧看到输出。
+如果代码中包含异步语法（async），需要将结果 return 才能在右侧看见。
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[插件清单]]></title>
+            <link>https://zotero-chinese.com/plugin-dev-guide/reference/manifest</link>
+            <guid>https://zotero-chinese.com/wiki/plugin-dev-guide/reference/manifest</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[插件清单
+`manifest.json` 是插件的清单文件，它是一个允许使用 `//` 撰写单行注释的、特殊的 JSON 文件。此文件必须存在，否则插件无效。
+在这个文件中定义了插件的名称、ID、描述]]></description>
+        </item>
+        <item>
+            <title><![CDATA[使用 Zotero bib 生成参考文献表]]></title>
+            <link>https://zotero-chinese.com/user-guide/create-bibliographies-via-zbib</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/create-bibliographies-via-zbib</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[使用 Zotero bib 生成参考文献表
+Zotero bib 是 Zotero 官方维护的一个引文生成器，使用它，你可以不下载 Zotero，或不将条目导入 Zotero 库，即可生成对应的引用格]]></description>
+        </item>
+        <item>
+            <title><![CDATA[编辑条目]]></title>
+            <link>https://zotero-chinese.com/user-guide/edit-items</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/edit-items</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[编辑条目
+&lt;Badge text="中级" /
+::: tip 始终及时校准条目
+使用 Zotero（或任何其他参考文献管理器）进行引用时，在将项目保存到库中后，应始终检查项目的准确性。
+Zot]]></description>
+        </item>
+        <item>
+            <title><![CDATA[“获取更多样式”打不开怎么办]]></title>
+            <link>https://zotero-chinese.com/user-guide/faqs/get-more-style-cannot-open</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/faqs/get-more-style-cannot-open</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[「获取更多样式」打不开怎么办
+近期许多同学在添加引文格式的时候，却发现 Zotero 内部 `获取更多样式` 点了但是却一直没有反应，可以通过尝试以下三种方法解决问题：
+1. 禁用插件
+   这种问题]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Emoji 变成黑白该如何解决]]></title>
+            <link>https://zotero-chinese.com/user-guide/faqs/monochrome-emoji</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/faqs/monochrome-emoji</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[Emoji 变成黑白该怎么办
+近期许多同学在系统更新后发现 Zotero 中 emoji 变成黑白了，初步判断这是由于系统更新出现的问题。
+该问题目前有两个解决方案，由于方法二会造成 emoji 图案]]></description>
+        </item>
+        <item>
+            <title><![CDATA[如何解决 Zotero 中 pdf 文件图片上有黑色遮挡的问题]]></title>
+            <link>https://zotero-chinese.com/user-guide/faqs/pdf-black-mask</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/faqs/pdf-black-mask</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[如何解决 Zotero 中 pdf 文件图片上有黑色遮挡的问题
+部分同学在使用 Zotero 官方阅读器阅读 pdf 的时候，可能会碰到图片出现黑色遮挡的情况。
+根据 Zotero 官方答复 ，这个问]]></description>
+        </item>
+        <item>
+            <title><![CDATA[群组]]></title>
+            <link>https://zotero-chinese.com/user-guide/group</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/group</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[<h1 id="群组" tabindex="-1">群组 <a class="header-anchor" href="#群组" aria-label="Permalink to &quot;群组&quot;">&ZeroWidthSpace;</a></h1>
+<Badge text="高级" /><ul>
+<li><strong>课题组协作、小组合作</strong>：文献条目及其附件（包括笔记注释）实时共享同步到群组成员的 Zotero 客户端（桌面端、移动端、网页端）。</li>
+<li><strong>双向跨库分享文献条目</strong>：「我的文库」可与「群组文库」中的文献条目（item）进行双向跨库复制/移动。</li>
+<li><strong>Zotero 的移动端（暂仅支持 iOS）支持阅读、修改群组的文献条目</strong>信息及其附件（笔记、全文 PDF 等）</li>
+<li><strong>不限制群组成员数量</strong></li>
+<li><strong>配合 Chartero 插件可以实时查看成员某文献条目的阅读时间</strong></li>
+</ul>
+<div class="warning custom-block"><p class="custom-block-title">群组依赖 Zotero 账号</p>
+<p>群组的条目和附件同步均能且仅能通过 Zotero 官方同步服务同步，因此在使用群组功能前，你必须登录 Zotero 账户，如果你没有登录，请阅读 <a href="./sync.html#数据的同步">同步</a> 小节完成账号注册和登录。</p>
+</div>
+<h2 id="创建群组" tabindex="-1">创建群组 <a class="header-anchor" href="#创建群组" aria-label="Permalink to &quot;创建群组&quot;">&ZeroWidthSpace;</a></h2>
+<p>有两种方式创建群组：</p>
+<ol>
+<li>
+<p>在 Zotero 客户端中点击如下按钮：</p>
+<p><img src="./../assets/images/zotero-group-new-group.png" alt="创建群组" loading="lazy"></p>
+</li>
+<li>
+<p>在<a href="https://www.zotero.org/groups" target="_blank" rel="noreferrer">Zotero 群组页面</a> 点击 <code>Create a New Group</code> 按钮。</p>
+</li>
+</ol>
+<p>在打开的页面中，为群组输入一个名字，选择<a href="#群组类型">群组的类型</a>，并依次进行<a href="#群组设置">群组设置</a>，即可完成创建。</p>
+<h3 id="群组类型" tabindex="-1">群组类型 <a class="header-anchor" href="#群组类型" aria-label="Permalink to &quot;群组类型&quot;">&ZeroWidthSpace;</a></h3>
+<p>群组有三类，分别是 <code>私有群组 (Private)</code>、<code>公开, 限定成员制群组 (Public, Closed Membership)</code> 和 <code>公开, 开放成员群组 (Private)</code> 三类，下表对比了三种群组类型的特点。</p>
+<p>| 项           | 私有群组 | 公开，限定成员制 | 公开，开放成员 |
+|</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[从其他软件导入条目]]></title>
+            <link>https://zotero-chinese.com/user-guide/import-from-other-software</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/import-from-other-software</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[从其他软件导入条目
+ 从 Endnote 导入
+ 导出 EndNote 库
+Zotero 无法直接导入 `.enl` 格式的 EndNote 库，因此第一步是从 EndNote 导出您的库为 XML ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zotero 百科全书]]></title>
+            <link>https://zotero-chinese.com/user-guide/</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[Zotero 百科全书
+::: info
+在 Zotero 使用过程中遇到问题，先上 Zotero 百科全书搜索一下！
+本文档由 Zotero Chinese 团队维护。有任何问题，欢迎在文档下方留言]]></description>
+        </item>
+        <item>
+            <title><![CDATA[在 Word 中把引注链接到参考文献表]]></title>
+            <link>https://zotero-chinese.com/user-guide/misc/link-citation-to-bibliography</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/misc/link-citation-to-bibliography</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[在 Word 中把引注链接到参考文献表
+ 描述
+建立引注（citation）与参考文献表（bibliography）之间的单向超链接（引用 -
+Zotero 官方不提供该功能，这是因为 Zotero ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[首选项：高级设置]]></title>
+            <link>https://zotero-chinese.com/user-guide/misc/preference</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/misc/preference</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[<h1 id="首选项-高级设置" tabindex="-1">首选项：高级设置 <a class="header-anchor" href="#首选项-高级设置" aria-label="Permalink to &quot;首选项：高级设置&quot;">&ZeroWidthSpace;</a></h1>
+<blockquote>
+<p>本节是 <a href="https://www.zotero.org/support/preferences/hidden_preferences" target="_blank" rel="noreferrer">https://www.zotero.org/support/preferences/hidden_preferences</a> 的翻译版本。</p>
+</blockquote>
+<p>您可以通过 Zotero 中的首选项窗口编辑大多数 Zotero 设置。 但是，Zotero 和 Zotero 连接器都支持额外的隐藏首选项。 这些设置可能接受的测试较少和/或旨在用于更高级的用途。</p>
+<h2 id="zotero" tabindex="-1">Zotero <a class="header-anchor" href="#zotero" aria-label="Permalink to &quot;Zotero&quot;">&ZeroWidthSpace;</a></h2>
+<p>要查看 Zotero 首选项的完整列表，包括许多隐藏的首选项，请转到 Zotero 首选项的高级窗格并单击「设置编辑器」。 在出现的列表顶部的过滤器字段中输入「Zotero」。 用户可以安全更改的首选项如下所述。
+大多数 Zotero 隐藏首选项都以 <code>extensions.zotero</code> 开头。</p>
+<h3 id="通用设置" tabindex="-1">通用设置 <a class="header-anchor" href="#通用设置" aria-label="Permalink to &quot;通用设置&quot;">&ZeroWidthSpace;</a></h3>
+<p>这些通用隐藏设置允许您定制化 Zotero 。</p>
+<p>| 设置名称                         | 默认值                   | 描述                                                                                                                                                                                                                                                                                     |
+|</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Linter for Zotero]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/linter</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/linter</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[::: info 关于插件
+这个插件用来规范条目的字段数据，以在引用参考文献的时候可以生成正确的、规范的参考文献表。
+- 项目主页：GitHub
+- 插件下载地址
+  - GitHub Release]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Ethereal Style for Zotero]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/style</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/style</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[<h1 id="ethereal-style-for-zotero" tabindex="-1">Ethereal Style for Zotero <a class="header-anchor" href="#ethereal-style-for-zotero" aria-label="Permalink to &quot;Ethereal Style for Zotero&quot;">&ZeroWidthSpace;</a></h1>
+<div class="info custom-block"><p class="custom-block-title">关于插件</p>
+<p>这是一个多彩的插件，用于增强 Zotero 的界面功能，让您享受阅读文献的乐趣！</p>
+<p>项目主页：<a href="https://github.com/MuiseDestiny/zotero-style" target="_blank" rel="noreferrer">https://github.com/MuiseDestiny/zotero-style</a>
+下载地址：<a href="https://zotero-chinese.com/plugins/#search=ethereal+style" target="_blank" rel="noreferrer">插件商店 - Zotero 中文社区</a>。</p>
+</div>
+<p>首先需要明确的是，本插件<code>适用人群</code>：想美化自己的 Zotero，有一定学习插件的时间。</p>
+<p>💡 强烈建议先<strong>按照文章顺序</strong>将整个教程<strong>完整的阅读一遍</strong>，了解插件的各个功能，再根据兴趣了解某个功能的详细设置/使用方法。</p>
+<p>该插件有很多提升效率的功能，也有很多美化的功能，但也可能导致 Zotero 卡顿，在使用时应该根据自己的情况进行调整。</p>
+<!-- [[toc]] -->
+<h2 id="开始之前" tabindex="-1">开始之前 <a class="header-anchor" href="#开始之前" aria-label="Permalink to &quot;开始之前&quot;">&ZeroWidthSpace;</a></h2>
+<p>在使用插件之前，你需要知道 <code>Style</code> 的设置方式主要有两种。</p>
+<h3 id="列设置" tabindex="-1">列设置 <a class="header-anchor" href="#列设置" aria-label="Permalink to &quot;列设置&quot;">&ZeroWidthSpace;</a></h3>
+<p>第一种，右键任意一个列的名字，会弹出一个右键菜单，并且在最后有两个按钮，一个是<code>列设置</code>，一个是<a href="#视图组"><code>视图组</code></a>。前者是对应列的设置选项，后者是一个将列分组快速切换的功能，后续会提到。</p>
+<p>例如：如果你想设置标签，你可以在<code>标签</code>上右键，然后点击<strong>列设置</strong>，这是一切设置的起点，你在不同列名上右键，对应的列设置功能不同。</p>
+<!-- ![列设置](../../assets/zoterostyle-右键菜单.png){width=50%} -->
+<p><img src="./../../assets/images/zotero-plugin-style/zoterostyle-标题栏列设置操作过程.gif" alt="列设置的设置过程" loading="lazy"></p>
+<h3 id="命令框" tabindex="-1">命令框 <a class="header-anchor" href="#命令框" aria-label="Permalink to &quot;命令框&quot;">&ZeroWidthSpace;</a></h3>
+<p>第二种，通过命令框修改设置。Style 命令框的快捷键是<code>Shift + P</code>，有时候也可能是<code>Shift + Tab + P</code>，许多功能通过此快捷键进行使用，如果显示不全时，可通过暂时禁用其他插件解决。</p>
+<p><img src="./../../assets/images/zotero-plugin-style/zoterostyle-shiftp菜单.png" alt="按下" loading="lazy"></p>
+<!-- ![点击可查看详细信息](../../assets/zoterostyle-shiftp菜单1.png) -->
+<div class="info custom-block"><p class="custom-block-title">信息</p>
+<p>如果你的 Emoji 变成黑白了，可以通过这个教程来解决问题 👉<a href="./../faqs/monochrome-emoji.html">Emoji 变成黑白该如何解决</a></p>
+</div>
+<div class="tip custom-block"><p class="custom-block-title">提示</p>
+<p>在 GitHub 上，你可以留下你的颜色搭配，也可以学习其他人的颜色搭配 👉<a href="https://github.com/MuiseDestiny/zotero-style/issues/48" target="_blank" rel="noreferrer">颜色搭配征集</a></p>
+</div>
+<h2 id="列" tabindex="-1">列 <a class="header-anchor" href="#列" aria-label="Permalink to &quot;列&quot;">&ZeroWidthSpace;</a></h2>
+<h3 id="标题-阅读进度条" tabindex="-1">标题（阅读进度条） <a class="header-anchor" href="#标题-阅读进度条" aria-label="Permalink to &quot;标题（阅读进度条）&quot;">&ZeroWidthSpace;</a></h3>
+<p>阅读进度直观地反映了您对某个项目下的 PDF 各页的阅读时间分布情况，颜色越深阅读时间越长。</p>
+<p>阅读进度条显示在两个地方，其一是作为<code>标题列</code>的背景：</p>
+<p><img src="./../../assets/images/zotero-plugin-style/zoterostyle-阅读进度条.png" alt="阅读进度条" loading="lazy"></p>
+<p>其二是在<a href="#命令框">命令框</a>。用选中要查看的这条文献,按 <code>Shift + P</code>，一个的命令窗口出现了。你可以点击「高能阅读进度条」,以查看你阅读的详细时间。鼠标点击进度条，还可以快速跳转到 PDF 对应页面。</p>
+<p><img src="./../../assets/images/zotero-plugin-style/zoterostyle-阅读进度条shiftp.png" alt="按下" loading="lazy"></p>
+<p><img src="./../../assets/images/zotero-plugin-style/zoterostyle-阅读进度条shiftp具体显示.png" alt="查看每一篇文章的阅读进度条" loading="lazy"></p>
+<details class="details custom-block"><summary>点击此处了解 阅读进度条 的详细设置</summary>
+<p>右键点击 <code>标题</code> 列，选择 <code>列设置（标题）</code> 进入列设置后可以对阅读进度条进行相关的设置</p>
+<ul>
+<li><code>Tags</code> ：勾选后，Zotero 的标签会在标题前显示；或者使用<a href="#标签">标签列</a> <em>Z6</em></li>
+<li><code>Color</code> ：阅读进度条的颜色</li>
+<li><code>Opacity</code>：透明度；如果你想关闭标题进度条，可以把它拉到开头，也就是 opacity=0</li>
+<li><code>Odd Color</code> :奇数行条目背景色 <em>Z6</em></li>
+<li><code>Even Color</code> ：偶数行条目背景色 <em>Z6</em></li>
+<li><code>Selected Color</code> ：选中行条目背景色 <em>Z6</em></li>
+<li><code>Translate</code>：在标题上显示翻译 <em>Z7</em></li>
+</ul>
+</details>
+<h3 id="标注-原进度" tabindex="-1">标注（原进度） <a class="header-anchor" href="#标注-原进度" aria-label="Permalink to &quot;标注（原进度）&quot;">&ZeroWidthSpace;</a></h3>
+<p>它可以直观地表示某个项目对应的 PDF 每页的注释字数。</p>
+<p><img src="./../../assets/images/zotero-plugin-style/zoterostyle-进度栏.png" alt="进度栏" loading="lazy"></p>
+<details class="details custom-block"><summary>点击此处了解 标注列 的详细设置</summary>
+<p>在<code>标注</code>列上右击，选择<code>列设置（标注）</code>，进入标注列的设置窗口。</p>
+<ul>
+<li>Zotero 7
+<ul>
+<li><code>Opacity</code>：调整 标注列 的透明度</li>
+</ul>
+</li>
+<li>Zotero 6
+<ul>
+<li><code>Style</code>：显示方式</li>
+<li><code>Color</code>: 颜色</li>
+<li><code>Opacity</code>: 透明度</li>
+<li><code>Circle</code>:</li>
+</ul>
+</li>
+</ul>
+<!-- ![标注列设置](../../assets/zoterostyle-标注列设置.png) -->
+<!-- ![进度栏设置](../../assets/zoterostyle-进度栏列设置.png){width=50%} -->
+</details>
+<h3 id="标签" tabindex="-1">标签 <a class="header-anchor" href="#标签" aria-label="Permalink to &quot;标签&quot;">&ZeroWidthSpace;</a></h3>
+<p><img src="./../../assets/images/zotero-plugin-style/zoterostyle-标签.png" alt="标签列" loading="lazy"></p>
+<p>在 Zotero 6 上，Style 插件为标题列提供了一个选项，允许将标签在标题前显示，但 Style 十分鼓励打开本列显示标签，因为这种圆圆的标签十分好看，并且这一列经过像素级优化使得圆形和 Emoji 对齐（下图是对比）。</p>
+<p><img src="./../../assets/images/zotero-plugin-style/zoterostyle-与官方标签的对比.png" alt="两种方式对比" loading="lazy"></p>
+<details class="details custom-block"><summary>点击此处了解 标签列 的详细设置</summary>
+<!-- ![标签栏设置](../../assets/zoterostyle-标签栏列设置.png){width=50%} -->
+<p>右键点击 <code>标签</code> 列，选择<code>列设置（标签）</code>后可以对<code>标签列</code>进行相关的设置</p>
+<ul>
+<li><code>Align</code> 标签左对齐，还是右对齐；</li>
+<li><code>Margin</code> 相邻标签的间距大小；</li>
+</ul>
+<p><strong>你可能会疑问，为什么我设置了标签，但不在这里显示？</strong></p>
+<p>在 Zotero 中有<code>普通标签</code>和<code>颜色标签</code>之分，只有<code>颜色标签</code>才可以在这里显示。</p>
+<p>如果想让你的标签显示在标签列中，需要先对标签进行分配颜色，请参考 <a href="./../organize-library.html#设置彩色标签设置星级">为标签分配颜色和顺序</a>。</p>
+<p><img src="./../../assets/images/添加标签-添加颜色.png" alt="添加标签" loading="lazy"></p>
+<p><img src="./../../assets/images/选择标签颜色及位置.png" alt="选择标签颜色及位置" loading="lazy"></p>
+<!-- ![标签分配颜色](../../assets/zoterostyle-标签设置颜色.png){width=50%}
+
+![位置越小，显示时越靠前](../../assets/zoterostyle-标签设置颜色1.png){width=33%} -->
+</details>
+<h3 id="标签-1" tabindex="-1"><code>#标签</code> <a class="header-anchor" href="#标签-1" aria-label="Permalink to &quot;`#标签`&quot;">&ZeroWidthSpace;</a></h3>
+<p><img src="./../../assets/images/zotero-plugin-style/zoterostyle-标签1.png" alt="标签" loading="lazy"></p>
+<p>它的功能很简单，标签列会渲染 Emoji，但一旦涉及到文字，就会渲染成一个圆。</p>
+<p>#标签会显示你所输入的所有内容。但考虑到你的 Zotero 里已有海量标签，为了不让它显示所有标签，这里只会显示<code>#</code>开头的标签。</p>
+<details class="details custom-block"><summary>点击此处了解 #标签 的详细设置</summary>
+<!-- ![列设置](../../assets/zoterostyle-标签1列设置.png){width=33%} -->
+<ul>
+<li>
+<p><code>Match</code> ：如果你会正则表达式，你可以在此尽情发挥，你也可以参考 <a href="https://github.com/MuiseDestiny/zotero-style/blob/master/src/modules/tags.ts#L245" target="_blank" rel="noreferrer"><code>getTagMatch</code> 源码</a>；如果你不会，那么只需要知道：</p>
+<p>| 输入       | 含义                                                                                |
+|</p>
+</li>
+</ul>
+</details>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[蒲公英]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/tara</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/tara</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[::: tip Tara
+Tara 是一个用于备份和恢复 Zotero 配置的插件，支持备份：
+✅ 备份已安装插件  
+✅ 备份 CSL 文件  
+✅ 备份转换器 (translators)  
+✅ ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[快速开始]]></title>
+            <link>https://zotero-chinese.com/user-guide/quick-start</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/quick-start</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[快速开始
+::: tip
+本节是 quick start guide [Zotero Documentation] 的翻译。您也可以参阅其他内部章节以获得更多详细步骤指导。
+:::
+ 基础知识
+ 如何]]></description>
+        </item>
+        <item>
+            <title><![CDATA[数据与文件的同步]]></title>
+            <link>https://zotero-chinese.com/user-guide/sync</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/sync</guid>
+            <pubDate>Sun, 11 Aug 2024 03:48:47 GMT</pubDate>
+            <description><![CDATA[<h1 id="数据与文件的同步" tabindex="-1">数据与文件的同步 <a class="header-anchor" href="#数据与文件的同步" aria-label="Permalink to &quot;数据与文件的同步&quot;">&ZeroWidthSpace;</a></h1>
+<p>我们在这里把同步分为「数据的同步」和「文件的同步」。</p>
+<p>数据的同步指 <code>条目字段信息</code>、<code>批注</code>、<code>笔记</code> 的同步，这些数据仅能通过 Zotero 官方提供的服务同步。</p>
+<p>文件的同步指 <code>PDF 附件</code>、<code>网页附件</code>、<code>Word 文档</code>、<code>EPub 文件</code> 等所有附件的同步。这些文件既可以通过 Zotero 官方服务同步，也可以通过 WebDAV 网盘来同步。</p>
+<div class="danger custom-block"><p class="custom-block-title">危险</p>
+<p>无论你选择何种同步方案， 切勿将 Zotero 的 <code>数据存储位置/Data Directory Location</code> 自定义为任何网盘的同步文件夹中 （包括 iCloud），也切勿使用任何网盘/同步盘的备份功能直接同步/备份这一目录 ！（包括但不限于直接使用坚果云的官方客户端直接同步备份这一文件夹）</p>
+<p>这样做在某些情况下可能会导致你的 Zotero 数据库损坏，带来严重的问题！官方对于这一问题的说明见这两篇文章：</p>
+<ul>
+<li><a href="https://www.zotero.org/support/sync#alternative_syncing_solutions" target="_blank" rel="noreferrer">How can I access my library from multiple computers?</a></li>
+<li><a href="https://www.zotero.org/support/kb/data_directory_in_cloud_storage_folder" target="_blank" rel="noreferrer">Can I store my Zotero data directory in a cloud storage folder?</a></li>
+</ul>
+</div>
+<h2 id="数据的同步" tabindex="-1">数据的同步 <a class="header-anchor" href="#数据的同步" aria-label="Permalink to &quot;数据的同步&quot;">&ZeroWidthSpace;</a></h2>
+<div class="tip custom-block"><p class="custom-block-title">提示</p>
+<p>无论如何，您都需要注册一个 Zotero 的官方账户，用于同步条目信息、批注以及笔记。如果您没有注册，可 <a href="https://www.zotero.org/user/register" target="_blank" rel="noreferrer">快速创建一个 Zotero 账户</a>。</p>
+</div>
+<p>之后您可以在 <code>Zotero</code>-<code>编辑</code>-<code>设置</code>-<code>同步</code>-<code>设置</code>中 输入您的帐号密码，进行登陆。</p>
+<p><img src="./../assets/images/zotero-帐号登陆.png" alt="账号登录" loading="lazy"></p>
+<p>每个 Zotero 用户都可以获得 300 MB 的免费 Zotero 存储空间，用于存储附加文件，并可 <a href="https://www.zotero.org/settings/storage?ref=sib" target="_blank" rel="noreferrer">购买更大的存储空间</a>。如果您拥有钞能力，这是最简单的备份方法，在登陆您的 Zotero 账户并完成购买后无需其他任何设置。</p>
+<p>|    存储空间    |             费用 (USD)              |
+| :</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zotero 的图标资源]]></title>
+            <link>https://zotero-chinese.com/assets/icons/README</link>
+            <guid>https://zotero-chinese.com/wiki/assets/icons/README</guid>
+            <pubDate>Sat, 10 Aug 2024 07:58:11 GMT</pubDate>
+            <description><![CDATA[- 当前目录下的图标主要是 Zotero 主界面各种按钮的图标和部分先前版本未重绘的图标。
+- `8`, `16`, `20` 三个目录是 Zotero 7 主界面新绘制的图标，由于每个文件夹内容不一]]></description>
+        </item>
+        <item>
+            <title><![CDATA[通过 VSCode.dev 网站在线更改本文档]]></title>
+            <link>https://zotero-chinese.com/contributing/vscode-dev</link>
+            <guid>https://zotero-chinese.com/wiki/contributing/vscode-dev</guid>
+            <pubDate>Sat, 10 Aug 2024 07:58:11 GMT</pubDate>
+            <description><![CDATA[通过 VSCode.dev 网站在线更改本文档
+::: warning 推荐使用 GitHub 代码空间
+由于操作类似，我们推荐使用 GitHub Codespace 来代替这种方法，GitHub 代]]></description>
+        </item>
+        <item>
+            <title><![CDATA[直接生成参考文献表]]></title>
+            <link>https://zotero-chinese.com/user-guide/create-bibliographies-within-zotero</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/create-bibliographies-within-zotero</guid>
+            <pubDate>Sat, 10 Aug 2024 07:58:11 GMT</pubDate>
+            <description><![CDATA[直接生成参考文献表
+除了前述的在文字处理器中添加引文外，Zotero 也提供了直接导出参考文献表的方法：
+::: tip 什么时候使用这种方法？
+- 分享文献引文
+- 需要在 PowerPoint 中]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CAJ 文件转为 PDF 文件]]></title>
+            <link>https://zotero-chinese.com/user-guide/faqs/caj2pdf</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/faqs/caj2pdf</guid>
+            <pubDate>Sat, 10 Aug 2024 07:58:11 GMT</pubDate>
+            <description><![CDATA[<h1 id="caj-文件转为-pdf-文件" tabindex="-1">CAJ 文件转为 PDF 文件 <a class="header-anchor" href="#caj-文件转为-pdf-文件" aria-label="Permalink to &quot;CAJ 文件转为 PDF 文件&quot;">&ZeroWidthSpace;</a></h1>
+<h2 id="各方式优缺点对比" tabindex="-1">各方式优缺点对比 <a class="header-anchor" href="#各方式优缺点对比" aria-label="Permalink to &quot;各方式优缺点对比&quot;">&ZeroWidthSpace;</a></h2>
+<p>| 方式                              | 优点                 | 缺点                 | 推荐度     |
+|</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zotero 7 Beta 历史版本下载]]></title>
+            <link>https://zotero-chinese.com/user-guide/faqs/zotero-7-beta-versions</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/faqs/zotero-7-beta-versions</guid>
+            <pubDate>Fri, 09 Aug 2024 08:52:48 GMT</pubDate>
+            <description><![CDATA[<h1 id="zotero-7-beta-历史版本下载" tabindex="-1">Zotero 7 Beta 历史版本下载 <a class="header-anchor" href="#zotero-7-beta-历史版本下载" aria-label="Permalink to &quot;Zotero 7 Beta 历史版本下载&quot;">&ZeroWidthSpace;</a></h1>
+<div class="tip custom-block"><p class="custom-block-title">提示</p>
+<p>Zotero 7 已正式发布，我们强烈建议绝大部分用户使用稳定版的 Zotero 而不是 beta 版本。</p>
+</div>
+<p>本页面提供了 Zotero 7 beta 部分历史版本的下载链接。但我们强烈建议使用最新版本的 Zotero 7 beta，以确保获得最佳体验和最新功能。</p>
+<p>| 版本号 | 提交哈希  | 便携版                                                                                                                   | 安装版                                                                                                                     |
+| :</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[插件开发指南]]></title>
+            <link>https://zotero-chinese.com/plugin-dev-guide/</link>
+            <guid>https://zotero-chinese.com/wiki/plugin-dev-guide/</guid>
+            <pubDate>Sat, 27 Jul 2024 07:09:30 GMT</pubDate>
+            <description><![CDATA[插件开发指南
+::: tip
+待完善，前托管于语雀的开发者文档主要针对 Zotero 6，鉴于插件在 Zotero 7 相对 Zotero 6 变动较大，因此插件开发者文档需要重写。
+:::
+本文档所]]></description>
+        </item>
+        <item>
+            <title><![CDATA[引导脚本]]></title>
+            <link>https://zotero-chinese.com/plugin-dev-guide/reference/bootstrap</link>
+            <guid>https://zotero-chinese.com/wiki/plugin-dev-guide/reference/bootstrap</guid>
+            <pubDate>Sat, 27 Jul 2024 07:09:30 GMT</pubDate>
+            <description><![CDATA[引导脚本
+引导脚本即 `bootstrap.js`，这是 Zotero 插件的入口脚本文件，此文件必须存在，否则插件将无法被安装。
+ 内容
+这个文件里必须包含以下几个钩子，Zotero 将在对应动作发]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zotero 事件机制]]></title>
+            <link>https://zotero-chinese.com/plugin-dev-guide/reference/notify</link>
+            <guid>https://zotero-chinese.com/wiki/plugin-dev-guide/reference/notify</guid>
+            <pubDate>Sat, 27 Jul 2024 07:09:30 GMT</pubDate>
+            <description><![CDATA[Zotero 事件机制
+Notify 事件是 Zotero 内部的一种事件机制，在包括条目创建修改删除，文件打开关闭，标签页打开选中关闭，同步触发等情况下将发送 Notify 事件。
+大部分插件都会用]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zotero 首选项]]></title>
+            <link>https://zotero-chinese.com/plugin-dev-guide/reference/preference</link>
+            <guid>https://zotero-chinese.com/wiki/plugin-dev-guide/reference/preference</guid>
+            <pubDate>Sat, 27 Jul 2024 07:09:30 GMT</pubDate>
+            <description><![CDATA[Zotero 首选项
+Preference 是 Zotero 插件的一种持久化设置能力。与其他代码运行环境相同，变量在 Zotero 重启后会被重置，因此对于用户的设置等需要持久存储的变量，通过 Pr]]></description>
+        </item>
+        <item>
+            <title><![CDATA[备份]]></title>
+            <link>https://zotero-chinese.com/user-guide/backup</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/backup</guid>
+            <pubDate>Sat, 27 Jul 2024 07:09:30 GMT</pubDate>
+            <description><![CDATA[<h1 id="备份" tabindex="-1">备份 <a class="header-anchor" href="#备份" aria-label="Permalink to &quot;备份&quot;">&ZeroWidthSpace;</a></h1>
+<p>我们强烈建议您定期备份 Zotero 数据目录。虽然同步是确保您可以在计算机发生问题时恢复库的好方法，但它并不能完全替代正确的备份：Zotero 服务器仅存储库的最新版本，并且只需要一个（可能是自动）同步以更改服务器副本（尽管可以从 Zotero 的自动备份恢复一些无意的更改）。</p>
+<p>在本页中，我们首先介绍 Zotero 运行所需的三类文件，然后介绍若干种备份这些文件的方式。</p>
+<h2 id="概述" tabindex="-1">概述 <a class="header-anchor" href="#概述" aria-label="Permalink to &quot;概述&quot;">&ZeroWidthSpace;</a></h2>
+<p>我们将构成 Zotero 正常运行的文件分为三部分：</p>
+<ul>
+<li>Zotero 程序文件 (Program Files)</li>
+<li>Zotero 数据文件 (Zotero Data Folder)</li>
+<li>Zotero 用户配置文件 (Zotero Profile Directory)</li>
+</ul>
+<h3 id="程序文件" tabindex="-1">程序文件 <a class="header-anchor" href="#程序文件" aria-label="Permalink to &quot;程序文件&quot;">&ZeroWidthSpace;</a></h3>
+<p>这些文件构成 Zotero 程序的主体，包含了 Zotero 程序的二进制文件（例如 <code>zotero.exe</code> 等） 和相关的库文件，不包括您的数据和个性化设置。</p>
+<p>这些文件由安装包释放，通常无需额外备份。</p>
+<h3 id="数据文件" tabindex="-1">数据文件 <a class="header-anchor" href="#数据文件" aria-label="Permalink to &quot;数据文件&quot;">&ZeroWidthSpace;</a></h3>
+<p>这个目录包含了 Zotero 存储的所有数据，包括您的文献条目信息、笔记、附件、标签、文件夹结构、转换器和引文样式等。这是最重要的部分，因为它包含了您的研究资料。备份数据文件可确保您不会失去已收集的所有信息。</p>
+<h4 id="数据文件位置" tabindex="-1">数据文件位置 <a class="header-anchor" href="#数据文件位置" aria-label="Permalink to &quot;数据文件位置&quot;">&ZeroWidthSpace;</a></h4>
+<p>除非您在 Zotero 设置的高级窗格中选择了自定义数据目录，否则您的 Zotero 数据将存储在以下与操作系统相关的目录中：</p>
+<p>| 系统类型                     | 默认位置                                      |
+|</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[贡献者名单]]></title>
+            <link>https://zotero-chinese.com/contributors</link>
+            <guid>https://zotero-chinese.com/wiki/contributors</guid>
+            <pubDate>Fri, 05 Jul 2024 07:36:09 GMT</pubDate>
+            <description><![CDATA[贡献者名单
+本页面列出了 Zotero 中文社区的部分贡献者。此外还有很多开发者们维护了很多插件、框架等，为 Zotero 社区作出了极大贡献。
+ Zotero 中文文档贡献者
+以下是 `zotero]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Better Notes]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/better-notes</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/better-notes</guid>
+            <pubDate>Sat, 29 Jun 2024 05:31:57 GMT</pubDate>
+            <description><![CDATA[::: tip
+深度适配 Zotero 阅读器的笔记插件。
+:::
+- 项目主页：https://github.com/windingwind/zotero-better-notes
+- 下载地址：
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[编写转换器]]></title>
+            <link>https://zotero-chinese.com/translator-dev-guide/coding</link>
+            <guid>https://zotero-chinese.com/wiki/translator-dev-guide/coding</guid>
+            <pubDate>Sat, 04 May 2024 07:56:54 GMT</pubDate>
+            <description><![CDATA[::: tip todo
+see &lt;https://www.zotero.org/support/dev/translators/coding
+:::
+ 网页型转换器（Web translato]]></description>
+        </item>
+        <item>
+            <title><![CDATA[转换器开发手册]]></title>
+            <link>https://zotero-chinese.com/translator-dev-guide/</link>
+            <guid>https://zotero-chinese.com/wiki/translator-dev-guide/</guid>
+            <pubDate>Sat, 04 May 2024 07:56:54 GMT</pubDate>
+            <description><![CDATA[::: tip todo
+see &lt;https://www.zotero.org/support/dev/translators
+:::
+ 前置知识
+HTML、JavaScript、CSS 选择]]></description>
+        </item>
+        <item>
+            <title><![CDATA[脚手架]]></title>
+            <link>https://zotero-chinese.com/translator-dev-guide/scaffold</link>
+            <guid>https://zotero-chinese.com/wiki/translator-dev-guide/scaffold</guid>
+            <pubDate>Sat, 04 May 2024 07:56:54 GMT</pubDate>
+            <description><![CDATA[::: tip todo
+see &lt;https://www.zotero.org/support/dev/translators/scaffold
+:::]]></description>
+        </item>
+        <item>
+            <title><![CDATA[贡献者公约]]></title>
+            <link>https://zotero-chinese.com/code_of_conduct</link>
+            <guid>https://zotero-chinese.com/wiki/code_of_conduct</guid>
+            <pubDate>Sat, 04 May 2024 06:43:01 GMT</pubDate>
+            <description><![CDATA[贡献者公约
+ 我们的承诺
+身为社区成员、贡献者和领袖，我们承诺使社区参与者不受骚扰，无论其年龄、体型、可见或不可见的缺陷、族裔、性征、性别认同和表达、经验水平、教育程度、社会与经济地位、国籍、相貌、种]]></description>
+        </item>
+        <item>
+            <title><![CDATA[CSL 中文文档]]></title>
+            <link>https://zotero-chinese.com/csl-dev-guide/</link>
+            <guid>https://zotero-chinese.com/wiki/csl-dev-guide/</guid>
+            <pubDate>Sat, 04 May 2024 06:43:01 GMT</pubDate>
+            <description><![CDATA[CSL 中文文档
+
+&gt; 此页面正在施工中。
+CSL (Citation Style Language) 是一种基于 XML 的语言，用来描述或格式化引用和参考文献目录的开源语言。使用 CSL 的]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Locale File]]></title>
+            <link>https://zotero-chinese.com/csl-dev-guide/translating-locale-files</link>
+            <guid>https://zotero-chinese.com/wiki/csl-dev-guide/translating-locale-files</guid>
+            <pubDate>Sat, 04 May 2024 06:43:01 GMT</pubDate>
+            <description><![CDATA[Locale File
+
+&gt; 此页面正在施工中。
+ 前言
+​ 这篇文档描述了如何帮助改进 CSL 样式的语言支持，主要是将 CSL locale file 翻译为需要的语言。
+​ 用户总是会选择]]></description>
+        </item>
+        <item>
+            <title><![CDATA[XML 基础]]></title>
+            <link>https://zotero-chinese.com/csl-dev-guide/xml-basic</link>
+            <guid>https://zotero-chinese.com/wiki/csl-dev-guide/xml-basic</guid>
+            <pubDate>Sat, 04 May 2024 06:43:01 GMT</pubDate>
+            <description><![CDATA[<h1 id="xml-基础" tabindex="-1">XML 基础 <a class="header-anchor" href="#xml-基础" aria-label="Permalink to &quot;XML 基础&quot;">&ZeroWidthSpace;</a></h1>
+<div class="warning custom-block github-alert"><p class="custom-block-title">WARNING</p>
+<p>此页面正在施工中。</p>
+</div>
+<p><code>CSL</code> 基于 <code>XML(eXtensible Markup Language)</code>。<code>XML</code> 是一种标记语言，这里只介绍基本的术语，以理解 <code>CSL</code> 文件格式。</p>
+<div class="language-xml vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">xml</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;?</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">xml</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> version</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"1.0"</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> encoding</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"utf-8"</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> standalone</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"yes"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"> ?>  # 文档声明</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#6A737D;--shiki-dark:#6A737D">&#x3C;!-- 这是一个注释 --></span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">  # 注释</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">hello</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">> # 根元素，文档的第一个元素，有且仅有一个</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    # 子元素</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    # 属性</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">    # 元素文本</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">hello</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span></code></pre>
+</div><p>上面的代码时一个简单的 <code>XML</code> 结构。为了方便说明使用了 <code>#</code>符号作为注释符号，<code>#</code>并不是真正的注释符号，<code>XML</code>的注释格式为文档中的第二行所示的形式。</p>
+<p>第一行为声明，或者称为序言，总是在文档的最前面。包括了<code>XML</code> 的版本、编码信息以及是否依赖外部文档等。这一行代码会告诉解析器或浏览器这个文件应该按照 XML 规则进行解析。</p>
+<p>第二行为 <code>XML</code> 文档的注释。格式为 <code>&lt;!-- 注释--&gt;</code>。</p>
+<p>剩下的代码为 <code>XML</code> 文件的根元素，根元素也是元素，根元素是文档的第一个元素，有且仅有一个。</p>
+<h2 id="元素" tabindex="-1">元素 <a class="header-anchor" href="#元素" aria-label="Permalink to &quot;元素&quot;">&ZeroWidthSpace;</a></h2>
+<p>元素由开始标签，元素内容和结束标签构成。其中可以包含属性、元素和注释。根元素包含了其他所有元素。</p>
+<div class="language-xml vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">xml</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">title</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>内容&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">title</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span></code></pre>
+</div><p><code>title</code> 为元素名。</p>
+<p>元素有 4 种形式。</p>
+<div class="language-xml vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">xml</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">1. 空元素</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">RAM</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">> &#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">RAM</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>  或者 &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">RAM</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">/></span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">2. 带有属性的空元素</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">RAM</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> width</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"100"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">/>  或者 &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">RAM</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> width</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"100"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">> &#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">RAM</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">/></span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">3. 带有内容的元素</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">Price</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>21000&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">Price</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">4. 带有内容和属性的元素</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">Price</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> MoneyKind</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"RMB"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>21000&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">Price</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>  # MoneyKind 为属性  21000为元素值</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">或者是</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">NotebookComputer</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">Style =" LX2000"</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">CPU =" PIII600"</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">RAM ="128M "</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">NotebookComputer</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span></code></pre>
+</div><p>所有的元素都包含在根元素中，为根元素的子元素，子元素还还可以包含子元素。</p>
+<h2 id="属性" tabindex="-1">属性 <a class="header-anchor" href="#属性" aria-label="Permalink to &quot;属性&quot;">&ZeroWidthSpace;</a></h2>
+<p>属性是对元素及其内容的描述，用 <code>=</code> 隔开。属性必须包含在一对单引号或者双引号之间。</p>
+<div class="language-xml vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang">xml</span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">Movie</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> ID</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"09001"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>   # 其中的 id 就是属性  后面的值就是属性值</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">title</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>非诚勿扰&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">title</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>  # 子元素</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">price</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">>70&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">price</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">Movie</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"># 空元素的属性</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">Rectangle</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Width</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"100"</span><span style="--shiki-light:#6F42C1;--shiki-dark:#B392F0"> Height</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">=</span><span style="--shiki-light:#032F62;--shiki-dark:#9ECBFF">"80"</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">/></span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8"># 属性的另外一种形式</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">NotebookComputer</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">Style =" LX2000"</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">CPU =" PIII600"</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">RAM ="128M "</span></span>
+<span class="line"><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">&#x3C;/</span><span style="--shiki-light:#22863A;--shiki-dark:#85E89D">NotebookComputer</span><span style="--shiki-light:#24292E;--shiki-dark:#E1E4E8">></span></span></code></pre>
+</div><p>每个元素中，一个属性最多出现一次，一个属性只能有一个值。</p>
+<p>如果属性有多个值，这需要采取 <code>XML</code> 协议以外的方式来表示，如采用逗号或分号间隔，对于 <a href="https://zh.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">CSS</a> 类或标识符的名字可用空格来分隔。</p>
+<h2 id="预定义实体表" tabindex="-1">预定义实体表 <a class="header-anchor" href="#预定义实体表" aria-label="Permalink to &quot;预定义实体表&quot;">&ZeroWidthSpace;</a></h2>
+<p><code>xml</code> 文件中某些符号无法正常表达，比如 <code>&lt;</code> 或者 <code>&gt;</code>，不处理的话会导致混乱。</p>
+<p>| 所定义的实体 | 所代表的字符 |
+|</p>
+]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zotero 中文社区]]></title>
+            <link>https://zotero-chinese.com/</link>
+            <guid>https://zotero-chinese.com/wiki/</guid>
+            <pubDate>Mon, 20 Jan 2025 22:35:43 GMT</pubDate>
+            <description><![CDATA[该页面仅供文档撰写和协作时预览之用，不是正式发布的文档，正式发布的文档请访问：Zotero 中文社区。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zotero 转换器概述]]></title>
+            <link>https://zotero-chinese.com/translator-dev-guide/translators</link>
+            <guid>https://zotero-chinese.com/wiki/translator-dev-guide/translators</guid>
+            <pubDate>Sat, 04 May 2024 07:56:54 GMT</pubDate>
+            <description><![CDATA[::: tip todo
+see &lt;https://www.zotero.org/support/dev/translators
+:::]]></description>
+        </item>
+        <item>
+            <title><![CDATA[侧载插件]]></title>
+            <link>https://zotero-chinese.com/plugin-dev-guide/development/sideloading</link>
+            <guid>https://zotero-chinese.com/wiki/plugin-dev-guide/development/sideloading</guid>
+            <pubDate>Sat, 04 May 2024 06:43:01 GMT</pubDate>
+            <description><![CDATA[Zotero 基于 Firefox，与其相同的，Zotero 侧载插件也有两种方式，分别是通过代理文件在启动时加载插件，和通过远程调试以临时插件的形式载入插件。
+::: tip
+使用社区模板的开发者，]]></description>
+        </item>
+        <item>
+            <title><![CDATA[快速开始]]></title>
+            <link>https://zotero-chinese.com/plugin-dev-guide/quick-start/</link>
+            <guid>https://zotero-chinese.com/wiki/plugin-dev-guide/quick-start/</guid>
+            <pubDate>Sat, 04 May 2024 06:43:01 GMT</pubDate>
+            <description><![CDATA[此节以官方插件示例 Make It Red 为例，说明 Zotero 插件的工作过程。
+::: info Todo
+待完善，请参阅插件仓库：Make It Red
+:::
+ Zotero 插件的经典目]]></description>
+        </item>
+        <item>
+            <title><![CDATA[参考]]></title>
+            <link>https://zotero-chinese.com/plugin-dev-guide/reference/</link>
+            <guid>https://zotero-chinese.com/wiki/plugin-dev-guide/reference/</guid>
+            <pubDate>Sat, 04 May 2024 06:43:01 GMT</pubDate>
+            <description><![CDATA[此节记录了一些 Zotero 插件相关的文件规范和 API，请在左侧菜单中选择需要浏览的内容。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zotero 条目]]></title>
+            <link>https://zotero-chinese.com/plugin-dev-guide/reference/item</link>
+            <guid>https://zotero-chinese.com/wiki/plugin-dev-guide/reference/item</guid>
+            <pubDate>Sat, 04 May 2024 06:43:01 GMT</pubDate>
+            <description><![CDATA[Item（条目）是 Zotero 中的基础数据元素。条目根据类型又可分为普通条目 (regular item)，附件 (attachment item)，笔记 (note item) 和注释 (ann]]></description>
+        </item>
+        <item>
+            <title><![CDATA[i18n]]></title>
+            <link>https://zotero-chinese.com/plugin-dev-guide/reference/localization</link>
+            <guid>https://zotero-chinese.com/wiki/plugin-dev-guide/reference/localization</guid>
+            <pubDate>Sat, 04 May 2024 06:43:01 GMT</pubDate>
+            <description><![CDATA[`locales/`
+::: info Todo
+Zotero 7 已全面使用 Fluent 作为本地化系统，请参考以下几个文档：
+- Zotero 7 for developers
+- Fluent]]></description>
+        </item>
+        <item>
+            <title><![CDATA[更新清单]]></title>
+            <link>https://zotero-chinese.com/plugin-dev-guide/reference/update</link>
+            <guid>https://zotero-chinese.com/wiki/plugin-dev-guide/reference/update</guid>
+            <pubDate>Sat, 04 May 2024 06:43:01 GMT</pubDate>
+            <description><![CDATA[`update.json` 列出了插件各版本插件兼容的 Zotero 版本及插件的更新地址。
+::: info Todo
+待完善，请参考：Updating your extension - Exten]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Zotero]]></title>
+            <link>https://zotero-chinese.com/plugin-dev-guide/reference/zotero</link>
+            <guid>https://zotero-chinese.com/wiki/plugin-dev-guide/reference/zotero</guid>
+            <pubDate>Sat, 04 May 2024 06:43:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[使用社区模板]]></title>
+            <link>https://zotero-chinese.com/plugin-dev-guide/use-template/</link>
+            <guid>https://zotero-chinese.com/wiki/plugin-dev-guide/use-template/</guid>
+            <pubDate>Sat, 04 May 2024 06:43:01 GMT</pubDate>
+            <description><![CDATA[::: info Todo
+社区模板地址：&lt;https://github.com/windingwind/zotero-plugin-template
+考虑到 Zotero 7 后续仍会有一次比]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Easier Citation for Zotero]]></title>
+            <link>https://zotero-chinese.com/user-guide/plugins/easier-citation</link>
+            <guid>https://zotero-chinese.com/wiki/user-guide/plugins/easier-citation</guid>
+            <pubDate>Sat, 04 May 2024 06:43:01 GMT</pubDate>
+            <description><![CDATA[::: info Todo
+:::]]></description>
+        </item>
+    </channel>
+</rss>
